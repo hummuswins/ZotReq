@@ -16,7 +16,7 @@ public class Graph {
     Graph() {
         courseToID = HashBiMap.create();
         numCourses = 0;
-        courses = new ArrayList<Course>();
+        courses = new ArrayList<>();
     }
 
     void takeCourse(String courseName) {
@@ -35,25 +35,40 @@ public class Graph {
 
     void insertCourse(String course, String courseTitle, String... preqs) {
         if (!courseToID.containsKey(course)) {
-            courseToID.put(course, numCourses);
+            courseToID.put(course, numCourses++);
             courses.add(new Course(course, courseTitle));
-            numCourses++;
         } else {
             courses.get(courseToID.get(course)).setCourseTitle(courseTitle);
         }
 
         int courseIndex = courseToID.get(course);
 
-        for (int i = 0; i < preqs.length; i++) {
-            if (!courseToID.containsKey(preqs[i])) {
-                courseToID.put(preqs[i], numCourses);
-                courses.add(new Course(preqs[i], null));
-                numCourses++;
+        for (String preq : preqs) {
+            if (!courseToID.containsKey(preq)) {
+                courseToID.put(preq, numCourses++);
+                courses.add(new Course(preq, null));
             }
-            int preqIndex = courseToID.get(preqs[i]);
+            int preqIndex = courseToID.get(preq);
             courses.get(courseIndex).addPreq(preqIndex);
             courses.get(preqIndex).addReq(courseIndex);
         }
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder builder = new StringBuilder();
+        for (Course course : courses) {
+            builder.append(course.getCourseName());
+
+            ArrayList<Integer> reqs = course.getReqs();
+            if (!reqs.isEmpty()) {
+                builder.append(" ->");
+                for (int courseId : reqs)
+                    builder.append(' ').append(courseToID.inverse().get(courseId));
+            }
+            builder.append(";\n");
+        }
+        return builder.toString();
     }
 
     void getDotFile() {

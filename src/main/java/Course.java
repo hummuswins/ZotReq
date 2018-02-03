@@ -11,6 +11,10 @@ public class Course {
     Course(String courseName, String courseTitle) {
         taken = false;
         numUntakenPreqs = 0;
+        preqs = new ArrayList<>();
+        reqs = new ArrayList<>();
+        this.courseName = courseName;
+        this.courseTitle = courseTitle;
     }
 
     void addPreq(int courseID) {
