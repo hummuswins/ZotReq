@@ -3,21 +3,15 @@
   <component name="FacetManager">
     <facet type="web" name="Web">
       <configuration>
-        <webroots>
-          <root url="file://$MODULE_DIR$/../../web" relative="/" />
-        </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/../../src/webapp/java" />
-        </sourceRoots>
+        <webroots />
+        <sourceRoots />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../..">
-      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../out" />
+    <content url="file://$MODULE_DIR$/../../courseGraph/webapp">
+      <sourceFolder url="file://$MODULE_DIR$/../../courseGraph/webapp/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
