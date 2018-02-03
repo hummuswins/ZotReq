@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/antgraph.project.iml" filepath="$PROJECT_DIR$/.idea/modules/antgraph.project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/antgraph.project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/antgraph.project_main.iml" group="antgraph.project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/antgraph.project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/antgraph.project_test.iml" group="antgraph.project" />
+    </modules>
+  </component>
+</project>
