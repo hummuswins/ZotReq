@@ -3,9 +3,9 @@ import com.google.common.collect.HashBiMap;
 import java.util.ArrayList;
 
 public class Graph {
-    BiMap<String, Integer> courseToID;
-    int numCourses;
-    ArrayList<Course> courses;
+    private BiMap<String, Integer> courseToID;
+    private int numCourses;
+    private ArrayList<Course> courses;
 
     Graph() {
         courseToID = HashBiMap.create();
@@ -51,6 +51,10 @@ public class Graph {
     }
 
     void getDotFile() {
+
+    }
+
+    void readCSV(String fileName) {
 
     }
 }
