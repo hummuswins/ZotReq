@@ -1,5 +1,11 @@
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVRecord;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
 import java.util.ArrayList;
 
 public class Graph {
@@ -18,12 +24,12 @@ public class Graph {
         takeCourse(id);
     }
 
-    void takeCourse(int courseID) {
+    private void takeCourse(int courseID) {
         Course course = courses.get(courseID);
         course.setTaken(true);
         ArrayList<Integer> requiredFor = course.getReqs();
-        for (int i = 0; i < requiredFor.size(); i++) {
-            courses.get(requiredFor.get(i)).decrementPreqs();
+        for (Integer req : requiredFor) {
+            courses.get(req).decrementPreqs();
         }
     }
 
@@ -55,6 +61,16 @@ public class Graph {
     }
 
     void readCSV(String fileName) {
+        try {
+            Reader in = new FileReader(fileName);
+            Iterable<CSVRecord> records = CSVFormat.EXCEL.parse(in);
+            for (CSVRecord record : records) {
+                String lastName = record.get("Last Name");
+                String firstName = record.get("First Name");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
 }
