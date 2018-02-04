@@ -34,12 +34,21 @@ public class Course {
         this.taken = taken;
     }
 
+    //Update when using bool expression tree preq evaluation
+    public boolean canTake() {
+        return numUntakenPreqs == 0;
+    }
+
     public int getNumUntakenPreqs() {
         return numUntakenPreqs;
     }
 
     public void decrementPreqs() {
         this.numUntakenPreqs--;
+    }
+
+    public void incremementReqs() {
+        this.numUntakenPreqs++;
     }
 
     public String getCourseName() {
