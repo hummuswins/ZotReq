@@ -25,7 +25,8 @@ There was also a large experience gap. Two of our members learned Javascript fro
 
 <h4>Accomplishments we are proud of</h4>
 We managed to create a working website that people can use to efficiently plan their course schedule for the school year / quarter.
-What we learned
+
+<h4>What we learned</h4>
 New languages - We had to learn languages such as HTML, CSS, and Javascript from scratch in order to contribute to the project.
 
 Teamwork - Dividing tasks up and assigning them based off each of our respective strengths. Additionally, helping each other in a way where all of us learned something new.
