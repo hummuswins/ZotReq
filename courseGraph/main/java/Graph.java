@@ -75,15 +75,23 @@ public class Graph {
         }
 
         int courseIndex = courseToID.get(course);
+        boolean newOr = false;
 
         for (String preq : preqs) {
-            if (!courseToID.containsKey(preq)) {
-                courseToID.put(preq, numCourses++);
-                courses.add(new Course(preq, null));
+            if (preq.contains("AND")) {
+                newOr = true;
+            } else {
+                if (!courseToID.containsKey(preq)) {
+                    courseToID.put(preq, numCourses++);
+                    courses.add(new Course(preq, null));
+                }
+                int preqIndex = courseToID.get(preq);
+                courses.get(courseIndex).addPreq(courses.get(preqIndex), preqIndex, newOr);
+                courses.get(preqIndex).addReq(courseIndex);
+
+                newOr = false;
             }
-            int preqIndex = courseToID.get(preq);
-            //courses.get(courseIndex).addPreq(courses[preqIndex]);
-            courses.get(preqIndex).addReq(courseIndex);
+
         }
     }
 

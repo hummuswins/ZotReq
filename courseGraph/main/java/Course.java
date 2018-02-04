@@ -37,9 +37,8 @@ public class Course {
         this.taken = taken;
     }
 
-    //Update when using bool expression tree preq evaluation
     public boolean canTake() {
-        return numUntakenPreqs == 0;
+        return preqTree.evaluate();
     }
 
     public int getNumUntakenPreqs() {
