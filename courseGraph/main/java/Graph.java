@@ -19,18 +19,44 @@ public class Graph {
         courses = new ArrayList<>();
     }
 
+
     void takeCourse(String courseName) {
         Integer id = courseToID.get(courseName);
         takeCourse(id);
     }
 
-    private void takeCourse(int courseID) {
+    ArrayList<Integer> takeCourse(int courseID) {
+        ArrayList<Integer> newCanTakeCourses = new ArrayList<>();
+
         Course course = courses.get(courseID);
         course.setTaken(true);
         ArrayList<Integer> requiredFor = course.getReqs();
         for (Integer req : requiredFor) {
-            courses.get(req).decrementPreqs();
+            Course updateCourse = courses.get(req);
+            updateCourse.decrementPreqs();
+            if (updateCourse.canTake()) {
+                newCanTakeCourses.add(req);
+            }
         }
+
+        return newCanTakeCourses;
+    }
+
+    ArrayList<Integer> untakeCourse(String courseName) {
+        ArrayList<Integer> newCannotTakeCourses = new ArrayList<>();
+
+        Integer courseID = getID(courseName);
+        Course course = courses.get(courseID);
+        ArrayList<Integer> requiredFor = course.getReqs();
+        for (Integer req : requiredFor) {
+            Course updateCourse = courses.get(req);
+            updateCourse.incremementReqs();
+            if (!updateCourse.canTake()) {
+                newCannotTakeCourses.add(req);
+            }
+        }
+
+        return newCannotTakeCourses;
     }
 
     /**
@@ -107,5 +133,13 @@ public class Graph {
             e.printStackTrace();
         }
 
+    }
+
+    int getID(String courseName) {
+        return courseToID.get(courseName);
+    }
+
+    String getName(int courseID) {
+        return courseToID.inverse().get(courseID);
     }
 }
