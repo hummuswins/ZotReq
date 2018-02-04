@@ -7,7 +7,7 @@ repositories {
     jcenter()
 }
 
-sourceCompatibility = 1.8
+sourceCompatibility = 1.9
 version = '1.0'
 jar {
     manifest {
