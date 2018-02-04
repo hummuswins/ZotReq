@@ -1,10 +1,20 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" build-on-make="true" name="antgraph.project_main:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded</output-path>
+  <artifact type="exploded-war" name="Gradle : antgraph.project-1.0.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
     <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="antgraph.project_main/web/Web Gradle : antgraph.project-1.0.war" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="antgraph.project_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: com.google.guava:guava:23.5-jre" />
@@ -17,7 +27,6 @@
           <element id="library" level="project" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="antgraph.project_main/web/Web" />
     </root>
   </artifact>
 </component>
