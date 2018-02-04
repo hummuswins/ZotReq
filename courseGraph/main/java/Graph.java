@@ -76,15 +76,16 @@ public class Graph {
         StringBuilder builder = new StringBuilder();
         builder.append("course {\n");
         for (Course course : courses) {
-            builder.append(course.getCourseName());
+            builder.append(course.getCourseName()).append(";\n");
 
             ArrayList<Integer> reqs = course.getReqs();
             if (!reqs.isEmpty()) {
-                builder.append(" ->");
                 for (int courseId : reqs)
-                    builder.append(' ').append(courseToID.inverse().get(courseId));
+                    builder.append(course.getCourseName())
+                            .append("->")
+                            .append(courseToID.inverse().get(courseId))
+                            .append(";\n");
             }
-            builder.append(";\n");
         }
         builder.append("}");
         return builder.toString();

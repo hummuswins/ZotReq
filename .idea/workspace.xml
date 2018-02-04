@@ -23,11 +23,6 @@
     <list default="true" id="1ff0e240-aef1-4829-acc5-11a5069a47fc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/java/Main.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/Main.java" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/index.html" afterPath="$PROJECT_DIR$/courseGraph/main/web/index.html" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" afterPath="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/GraphServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/GraphServlet.class" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -68,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="313">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,18 +86,18 @@
       <file leaf-file-name="course_graph.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1249">
+            <state relative-caret-position="1332">
               <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+            <state relative-caret-position="324">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -496,11 +491,11 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/courseGraph/main/java/Servlet.java" />
         <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
         <option value="$PROJECT_DIR$/courseGraph/main/java/Main.java" />
         <option value="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" />
         <option value="$PROJECT_DIR$/courseGraph/main/web/index.html" />
         <option value="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" />
+        <option value="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
       </list>
     </option>
   </component>
@@ -849,7 +844,7 @@
       <workItem from="1517694067662" duration="33000" />
       <workItem from="1517694115369" duration="1788000" />
       <workItem from="1517696307061" duration="636000" />
-      <workItem from="1517697226811" duration="9648000" />
+      <workItem from="1517697226811" duration="10467000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed gradle importing for Servlet and how the project is structured.">
       <created>1517697578551</created>
@@ -865,14 +860,29 @@
       <option name="project" value="LOCAL" />
       <updated>1517703699648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added bootstrap, checklist will change graph color, and some documentation">
+      <created>1517706988963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517706988963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix toString bug because I didn't know DOT">
+      <created>1517707385223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517707385223</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20137000" />
+    <option name="totallyTimeSpent" value="20956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -958,7 +968,8 @@
     <MESSAGE value="Fixed gradle importing for Servlet and how the project is structured." />
     <MESSAGE value="Added functionality to add to Course taken based on what nodes are in the graph" />
     <MESSAGE value="Added bootstrap, checklist will change graph color, and some documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bootstrap, checklist will change graph color, and some documentation" />
+    <MESSAGE value="Fix toString bug because I didn't know DOT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix toString bug because I didn't know DOT" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1180,6 +1191,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/courseGraph/main/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1190,24 +1217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1249">
-          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+        <state relative-caret-position="313">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
