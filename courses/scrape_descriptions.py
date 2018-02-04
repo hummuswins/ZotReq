@@ -27,7 +27,7 @@ def get_description(descriptions) -> str:
 uClient = None
 my_url = "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/#courseinventory"
 
-filename = "courses_desc.csv"
+filename = "zCOMPSCI_desc.csv"
 f = open(filename, 'w')
 
 header = "Course, Course Description"
