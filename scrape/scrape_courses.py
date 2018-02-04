@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup as soup
 import re
 
 def separate(prereqs):
-    prereqs = re.sub(r'[a-z=;]', '', prereqs)
+    prereqs = re.sub(r'[a-z=();]', '', prereqs)
     prereqs = ' '.join(prereqs.split())
+    prereqs = re.sub("UPPER DIVISION ST|ING ONLY", '', prereqs)
     prereqs = prereqs.split('AND')
     for x in range(len(prereqs)):
         prereqs[x] = prereqs[x].split('OR')
@@ -19,6 +20,7 @@ def separate(prereqs):
 
     prereqs = str(prereqs)
     prereqs = re.sub(r"[\[*\]*\'*]", '', prereqs)
+    prereqs = re.sub(r"\sC\s|\sC$|\s3\s|\s4\s|\s5\s|SUB", '', prereqs)
     
     return prereqs
 
@@ -58,7 +60,7 @@ class_courses = page_soup.findAll("td", {"class": "course"})
 class_titles = page_soup.findAll("td", {"class": "title"})
 class_prereqs = page_soup.findAll("td", {"class": "prereq"})
 
-prereqs = class_prereqs[0].text.strip()
+prereqs = class_prereqs[5].text.strip()
 print(separate(prereqs))
 
 for x in range(len(class_courses)):
