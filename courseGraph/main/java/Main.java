@@ -18,14 +18,20 @@ public class Main {
         Graph graph = new Graph();
         graph.readCSV("scrape/courses.csv");
 
-        for (int i = 0; i < 5; i++) {
+
+        //System.out.println("Printing contents of course array.");
+        //graph.printCourseArray();
+
+        ArrayList<Integer> takeCourseResults = graph.takeCourse(5);
+        for (int i = 0; i < 25; i++) {
             System.out.println("Taking Course: " + i);
-            ArrayList<Integer> takeCourseResults = graph.takeCourse(5);
+            takeCourseResults = graph.takeCourse(i);
             for (int course : takeCourseResults) {
                 System.out.println("Now can take: " + course);
             }
         }
 
+        System.out.println("Printing Graph");
         System.out.println(graph);
     }
 }
