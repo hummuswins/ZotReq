@@ -21,1091 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ff0e240-aef1-4829-acc5-11a5069a47fc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/antgraph.project-1.0.war" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/classes/Course.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/classes/Graph.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/classes/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/classes/Servlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/animal-sniffer-annotations-1.14.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/checker-qual-2.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/commons-collections-3.2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/commons-csv-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/error_prone_annotations-2.0.18.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/guava-23.5-jre.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/j2objc-annotations-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/exploded/antgraph.project-1.0.war/WEB-INF/lib/jsr305-1.3.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/courseGraph/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/courseGraph/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/artifacts/Gradle___antgraph_project_1_0_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/artifacts/Gradle___antgraph_project_1_0_war__exploded_.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/artifacts/antgraph_project_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__com_google_guava_guava_23_5_jre.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__org_apache_commons_commons_csv_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__org_checkerframework_checker_qual_2_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/libraries/node_modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/modules/antgraph.project.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/modules/antgraph.project_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/modules/antgraph.project_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/Course.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/Graph.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/GraphServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/animal-sniffer-annotations-1.14.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/checker-qual-2.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/commons-collections-3.2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/commons-csv-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/error_prone_annotations-2.0.18.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/guava-23.5-jre.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/j2objc-annotations-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/lib/jsr305-1.3.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/graph.dot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/javascript/course_graph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/History.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/Readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/component.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/emitter-component/test/emitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/.bowerrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/.jscsrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/Gruntfile.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/changelog.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/component.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/hammer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/hammer.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/hammer.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/hammer.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/expose.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/hammer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/hammer.prefix.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/hammer.suffix.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input/mouse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input/pointerevent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input/singletouch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input/touch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/input/touchmouse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/manager.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/attribute.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/pan.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/pinch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/press.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/rotate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/swipe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/recognizers/tap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/touchaction.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/src/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/assets/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/compute_touch_action.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/input.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/log.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/multiple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/nested.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/simulator-googlemaps.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/simulator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/touchaction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/manual/visual.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/blanket.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/lodash.compat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/qunit.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/qunit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/assets/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/gestures/test_pan.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/gestures/test_pinch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/gestures/test_swipe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_enable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_events.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_gestures.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_hammer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_jquery_plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_multiple_taps.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_nested_gesture_recognizers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_propagation_bubble.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_require_failure.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_simultaneous_recognition.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/hammerjs/tests/unit/test_utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/LICENSE-APACHE-2.0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/LICENSE-MIT" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/keycharm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/keycharm/test/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/ender.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/af.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-dz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-kw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-ly.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-ma.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-sa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar-tn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/az.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/be.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/bm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/bn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/bo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/bs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/cv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/de-at.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/de-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/dv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/en-au.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/en-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/en-gb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/en-ie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/en-nz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/eo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/es-do.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/es-us.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fr-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fr-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/fy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/gd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/gom-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/gu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/hi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/hy-am.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/is.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/jv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ka.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/kk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/kn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ky.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/lb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/lo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/me.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/mi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/mk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/mr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ms-my.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/mt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/my.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/nb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ne.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/nl-be.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/nn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/pa-in.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/se.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/si.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sr-cyrl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ss.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/sw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ta.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/te.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tl-ph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tlh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tzl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tzm-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/tzm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/ur.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/uz-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/uz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/x-pseudo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/yo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/zh-hk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/locale/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/min/locales.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/min/locales.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/min/moment-with-locales.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/min/moment-with-locales.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/min/moment.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/moment.d.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/moment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/package.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/check-overflow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/date-from-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-anything.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-object.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-string-and-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-string-and-format.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/from-string.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/local.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/parsing-flags.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/utc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/create/valid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/abs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/add-subtract.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/as.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/bubble.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/clone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/constructor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/create.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/duration.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/get.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/humanize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/iso-string.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/prototype.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/duration/valid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/format/format.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/base-config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/constructor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/formats.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/invalid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/lists.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/locale.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/locales.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/ordinal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/pre-post-format.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/prototype.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/relative.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/locale/set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/add-subtract.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/clone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/compare.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/constructor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/creation-data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/diff.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/format.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/from.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/get-set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/locale.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/min-max.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/moment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/now.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/prototype.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/start-end-of.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/to-type.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/to.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/moment/valid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/parse/regex.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/parse/token.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/aliases.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/constants.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/day-of-month.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/day-of-week.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/day-of-year.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/hour.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/millisecond.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/minute.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/month.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/offset.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/priorities.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/quarter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/second.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/timestamp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/timezone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/units.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/week-calendar-utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/week-year.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/week.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/units/year.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/abs-ceil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/abs-floor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/abs-round.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/compare-arrays.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/defaults.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/deprecate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/extend.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/has-own-prop.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/hooks.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/index-of.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-function.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-number.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-object-empty.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-object.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/is-undefined.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/keys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/mod.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/some.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/to-int.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/lib/utils/zero-fill.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/af.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-dz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-kw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-ly.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-ma.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-sa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar-tn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/az.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/be.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/bm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/bn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/bo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/bs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/cv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/de-at.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/de-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/dv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/en-au.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/en-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/en-gb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/en-ie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/en-nz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/eo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/es-do.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/es-us.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fr-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fr-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/fy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/gd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/gom-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/gu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/hi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/hy-am.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/is.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/jv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ka.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/kk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/kn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ky.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/lb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/lo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/me.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/mi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/mk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/mr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ms-my.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/mt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/my.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/nb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ne.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/nl-be.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/nn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/pa-in.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/se.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/si.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sr-cyrl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ss.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/sw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ta.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/te.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tl-ph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tlh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tzl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tzm-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/tzm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/ur.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/uz-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/uz.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/x-pseudo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/yo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/zh-hk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/locale/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/moment/src/moment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/HISTORY.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/examples/basic.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/examples/extensive.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/examples/firstTarget.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/examples/global.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/propagating-hammerjs/propagating.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.babelrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.codeclimate.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.commits.tmp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.csslintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.eslintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.github/ISSUE_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.mdlrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/HISTORY.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/LICENSE-APACHE-2.0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/LICENSE-MIT" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/acceptDeleteIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/addNodeIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/backIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/connectIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/cross.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/cross2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/deleteIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/downArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/editIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/leftArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/minus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/rightArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/upArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/img/network/zoomExtends.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis-graph3d.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis-network.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis-network.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis-timeline-graph2d.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis-timeline-graph2d.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/dist/vis.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/css/tipuesearch.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/data/dataset.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/data/dataview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/data/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/graph2d/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/graph3d/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/arrow.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/crossword.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/crosswordStrong.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/external-link-icons/external-link-icon-white.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/external-link-icons/external-link-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/external-link-icons/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/graph/graph.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/graph/graph120x60.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/graph3d.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/graph3d120x60.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/timeline/timeline.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/timeline/timeline120x60.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/vis_overview.odg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/img/vis_overview.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/docs.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/googleAnalytics.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/ie-emulation-modes-warning.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/ie10-viewport-bug-workaround.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/jquery.highlight.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/jquery.url.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-apollo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-css.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-hs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-lisp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-lua.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-ml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-proto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-scala.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-sql.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-vb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-vhdl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-wiki.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/lang-yaml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/prettify/prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/smooth-scroll.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/tipuesearch.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/tipuesearch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/tipuesearch.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/js/toggleTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/configure.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/edges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/interaction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/layout.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/manipulation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/nodes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/network/physics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/docs/timeline/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/01_basic.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/02_bars.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/03_groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/04_rightAxis.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/05_bothAxis.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/06_interpolation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/07_scrollingAndSorting.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/08_performance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/09_external_legend.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/10_barsSideBySide.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/11_barsSideBySideGroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/12_customRange.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/13_localization.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/14_toggleGroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/15_streaming_data.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/16_bothAxisTitles.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/17_dynamicStyling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/18_scatterplot.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/19_labels.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/20_shading.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/21_barsWithEnd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph2d/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/01_basics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/02_camera.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/03_filter_data.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/04_animation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/05_line.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/06_moving_dots.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/07_dot_cloud_colors.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/08_dot_cloud_size.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/09_mobile.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/10_styling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/11_tooltips.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/12_custom_labels.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/csv2array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/csv2datatable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/datasource.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/datasource.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/playground.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/playground.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-apollo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-css.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-hs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-lisp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-lua.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-ml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-proto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-scala.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-sql.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-vb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-vhdl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-wiki.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/lang-yaml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/graph3d/playground/prettify/prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/basicUsage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/datasets.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/data/cellular_automata.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/data/computer_network.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/data/simple.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/dotEdgeStyles.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/dotLanguage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/dotPlayground.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/fsm.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/hello.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/process.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/screenshots/fsm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/screenshots/hello.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/screenshots/softmaint.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/screenshots/traffic_lights.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/siblings.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/softmaint.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/traffic_lights.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/transparency.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/twopi2.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/unix.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dotLanguage/graphvizGallery/world.gv.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/dynamicData.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/importingFromGephi.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/scalingCustom.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/scalingNodesEdges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/data/scalingNodesEdgesLabels.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/datasources/WorldCup2014.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/datasources/WorldCup2014.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/datasources/largeHierarchicalDataset.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/arrowTypes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/arrows.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/colors.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/dashes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/smooth.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/edgeStyles/smoothWorldCup.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/events/interactionEvents.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/events/physicsEvents.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/events/renderEvents.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/disassemblerExample.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/disassemblerExample.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/lesMiserables.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/loadingBar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/neighbourhoodHighlight.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/nodeLegend.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleApplications/worldCupPerformance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/exampleUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/imageSelected/broken-image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/imageSelected/imageSelected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/imageSelected/selected.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/imageSelected/unselected.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/indonesia/9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-Fax-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-Laptop-1-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-Mobile-Phone-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-My-Computer-3-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-My-PDA-02-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-My-PDA-04-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-My-PDA-05-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-My-Phone-Picture-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Hardware-Printer-Blue-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Misc-Scanner-default-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Network-Drive-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Network-Internet-Connection-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/Network-Pipe-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/System-Firewall-2-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/System-Globe-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/refresh-cl/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Document-icon24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Document-icon32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Document-icon48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Email-icon24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Email-icon32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Email-icon48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Folder-icon24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Folder-icon32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Folder-icon48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Folder-icon64.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Smiley-Angry-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/Smiley-Grin-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Administrator-Blue-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Administrator-Green-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Coat-Blue-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Coat-Green-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Coat-Red-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Executive-Green-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Preppy-Blue-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/User-Preppy-Red-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/img/soft-scraps-icons/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelAlignment.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelBackground.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelColorAndSize.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelMargins.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelMultifont.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/labelStroke.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/labels/multilineText.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/demo.jsonp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/demo_big.jsonp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/hierarchicalLayout.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/hierarchicalLayoutBigUserDefined.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/hierarchicalLayoutMethods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/hierarchicalLayoutUserdefined.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/hierarchicalLayoutWithoutPhysics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/layout/randomSeed.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/HTMLInNodes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/circularImages.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/colors.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/customGroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/icons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/imagesWithBorders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/shadows.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/shapes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/shapesWithDashedBorders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/nodeStyles/widthHeight.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/animationShowcase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/changingClusteredEdgesNodes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/chosen.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/clustering.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/clusteringByZoom.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/clustersOfclusters.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/configuration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/cursorChange.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/manipulation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/manipulationEditEdgeNoDrag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/navigation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/onLoadAnimation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/performance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/other/saveAndLoad.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/network/physics/physicsConfiguration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/basicUsage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/dataHandling/dataSerialization.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/dataHandling/loadExternalData.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/customSnappingOfItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/editingItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/editingItemsCallbacks.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/individualEditableItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/itemsAlwaysDraggable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/overrideEditingItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/tooltipOnItemChange.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/editing/updateDataOnEvent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/groupsEditable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/groupsOrdering.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/nestedGroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/subgroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/groups/verticalItemsHide.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/animateWindow.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/clickToUse.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/eventListeners.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/limitMoveAndZoom.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/navigationMenu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/rollingMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/interaction/setSelection.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/backgroundAreas.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/backgroundAreasWithGroups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/expectedVsActualTimesItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/htmlContents.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/itemOrdering.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/pointItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/rangeOverflowItem.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/tooltip.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/items/visibleFrameTemplateContent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/customTimeBars.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/customTimeBarsTooltip.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/dataAttributes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/dataAttributesAll.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/drag&amp;drop.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/functionLabelFormats.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/groupsPerformance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/hidingPeriods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/horizontalScroll.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/localization.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/performance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/requirejs/requirejs_example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/requirejs/scripts/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/requirejs/scripts/require.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/rtl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/stressPerformance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/timezone.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/usingReact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/other/verticalScroll.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/data/basic.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/data/wk2014.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/Hardware-Mobile-Phone-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/attachment-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/blog-post-edit-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/comments-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/community-users-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/license_aesthetica-2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/license_refresh-cl.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/mail-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/notes-edit-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/product-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/resources/img/truck-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/axisOrientation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/customCss.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/gridStyling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/itemClassNames.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/itemTemplates.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/examples/timeline/styling/weekStyling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/index-graph3d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/index-network.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/index-timeline-graph2d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/DOMutil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/DataSet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/DataView.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/Queue.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Camera.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/DataGroup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Filter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Graph3d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Point2d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Point3d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Range.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Settings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/Slider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/StepNumber.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/graph3d/options.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/hammerUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/module/hammer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/module/moment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/module/uuid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/CachedImage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/Images.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/Network.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/NetworkUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/css/network-colorpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/css/network-manipulation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/css/network-navigation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/dotparser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/gephiParser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/acceptDeleteIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/addNodeIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/backIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/connectIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/cross.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/cross2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/deleteIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/downArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/editIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/leftArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/minus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/rightArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/upArrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/img/zoomExtends.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/locales.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/Canvas.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/CanvasRenderer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/Clustering.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/EdgesHandler.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/Groups.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/InteractionHandler.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/KamadaKawai.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/LayoutEngine.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/ManipulationSystem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/NodesHandler.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/PhysicsEngine.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/SelectionHandler.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/View.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/DirectionStrategy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/Edge.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/NavigationHandler.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/Node.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/algorithms/FloydWarshall.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/BezierEdgeDynamic.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/BezierEdgeStatic.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/CubicBezierEdge.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/StraightEdge.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/util/BezierEdgeBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/util/CubicBezierEdgeBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/util/EdgeBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/edges/util/EndPoints.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/Cluster.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Box.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Circle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/CircularImage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Database.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Diamond.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Dot.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Ellipse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Hexagon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Icon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Square.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Star.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Text.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/Triangle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/shapes/TriangleDown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/util/CircleImageBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/util/NodeBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/nodes/util/ShapeBase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/BarnesHutSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/CentralGravitySolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/FA2BasedCentralGravitySolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/FA2BasedRepulsionSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/HierarchicalRepulsionSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/HierarchicalSpringSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/RepulsionSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/physics/SpringSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/shared/ComponentUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/shared/Label.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/shared/LabelAccumulator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/modules/components/shared/LabelSplitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/options.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/network/shapes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/Activator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/ColorPicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/Configurator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/Popup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/Validator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/activator.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/configuration.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/shared/tooltip.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/.eslintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/Core.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/DateUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/Graph2d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/Range.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/Stack.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/TimeStep.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/Timeline.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/BackgroundGroup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/Component.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/CurrentTime.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/CustomTime.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/DataAxis.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/DataScale.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/GraphGroup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/Group.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/ItemSet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/Legend.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/LineGraph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/TimeAxis.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/animation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/currenttime.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/customtime.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/dataaxis.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/item.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/itemset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/labelset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/panel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/pathStyles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/timeaxis.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/css/timeline.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/graph2d_types/bar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/graph2d_types/line.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/graph2d_types/points.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/item/BackgroundItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/item/BoxItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/item/Item.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/item/PointItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/component/item/RangeItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/locales.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/optionsGraph2d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/timeline/optionsTimeline.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/lib/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/npm-debug.log.2959790586" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/node_modules/vis/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/GraphServlet.class" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/webapp_war_exploded.xml" afterPath="$PROJECT_DIR$/idea/artifacts/webapp_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/antgraph.project_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/antgraph.project_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/src.iml" afterPath="$PROJECT_DIR$/idea/modules/src.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ucihack.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
       <change beforePath="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" />
+      <change beforePath="$PROJECT_DIR$/courseGraph/main/java/Main.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/Main.java" />
       <change beforePath="$PROJECT_DIR$/courseGraph/main/web/index.html" afterPath="$PROJECT_DIR$/courseGraph/main/web/index.html" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/emitter-component/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/emitter-component/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/hammerjs/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/hammerjs/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/keycharm/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/keycharm/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/moment/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/moment/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/propagating-hammerjs/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/propagating-hammerjs/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/vis/dist/vis.js" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/vis/dist/vis.js" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/node_modules/vis/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/node_modules/vis/package.json" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/package.json" afterPath="$PROJECT_DIR$/courseGraph/main/web/package.json" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Graph.class" afterPath="$PROJECT_DIR$/out/production/classes/Graph.class" />
+      <change beforePath="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" afterPath="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/GraphServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded/WEB-INF/classes/GraphServlet.class" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -1140,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="54" />
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -1149,8 +71,8 @@
       <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="-594">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1159,28 +81,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="493">
+              <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_graph.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_graph.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="1249">
+              <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphServlet.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GraphServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="414">
+              <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -1574,10 +496,11 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/courseGraph/main/java/Servlet.java" />
         <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" />
         <option value="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
-        <option value="$PROJECT_DIR$/courseGraph/main/web/index.html" />
+        <option value="$PROJECT_DIR$/courseGraph/main/java/Main.java" />
         <option value="$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js" />
+        <option value="$PROJECT_DIR$/courseGraph/main/web/index.html" />
+        <option value="$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java" />
       </list>
     </option>
   </component>
@@ -1926,7 +849,7 @@
       <workItem from="1517694067662" duration="33000" />
       <workItem from="1517694115369" duration="1788000" />
       <workItem from="1517696307061" duration="636000" />
-      <workItem from="1517697226811" duration="6341000" />
+      <workItem from="1517697226811" duration="9648000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed gradle importing for Servlet and how the project is structured.">
       <created>1517697578551</created>
@@ -1935,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517697578551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added functionality to add to Course taken based on what nodes are in the graph">
+      <created>1517703699648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517703699648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16830000" />
+    <option name="totallyTimeSpent" value="20137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -1957,16 +887,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.46771654" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5322835" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986508" sideWeight="0.46771654" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986508" sideWeight="0.5322835" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1979,6 +909,42 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.46771654" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5322835" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1991,7 +957,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Fixed gradle importing for Servlet and how the project is structured." />
     <MESSAGE value="Added functionality to add to Course taken based on what nodes are in the graph" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functionality to add to Course taken based on what nodes are in the graph" />
+    <MESSAGE value="Added bootstrap, checklist will change graph color, and some documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bootstrap, checklist will change graph color, and some documentation" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -2189,42 +1156,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseGraph/main/web/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2237,10 +1172,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/courseGraph/main/web/javascript/course_graph.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="1249">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseGraph/main/java/GraphServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
           <folding />
         </state>
       </provider>

@@ -1,4 +1,7 @@
 public class Main {
+    /**
+     * Class Main for testing
+     */
     public static void main(String[] args) {
         Graph graph = new Graph();
         graph.insertCourse("cs122b", "Web Development", "cs122a","ics45j");

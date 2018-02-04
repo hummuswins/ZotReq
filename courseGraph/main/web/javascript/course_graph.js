@@ -1,9 +1,4 @@
-// "As of jQuery 1.5, the success setting can accept an array of functions. Each function will be called in turn."
-let container = document.getElementById('mynetwork');
-$.ajax({
-	url: 'courseGraph',
-	success: [(data) => parseData(data)]
-});
+let container = document.getElementById('mynetwork'); // Container to print the graph
 
 let i = 0;
 
@@ -16,39 +11,73 @@ function addForm(node) {
 		"    </div>");
 }
 
+
+// AJAX for GET request for servlet
+$.ajax({
+	url: 'courseGraph',
+	success: [(data) => parseData(data)]
+});
+
+
+let network, nodes;
+
+/**
+ * This will parse the DOT notation from /courseGraph and represent that in graph
+ * @param graphData
+ */
 function parseData(graphData) {
 	let parsedData = vis.network.convertDot(graphData);
 
+	nodes = new vis.DataSet(parsedData.nodes);
 	let data = {
-		nodes: parsedData.nodes,
+		nodes: nodes,
 		edges: parsedData.edges
 	};
-	parsedData.nodes.forEach(addForm);
+	nodes.forEach(addForm);
 
 	let options = parsedData.options;
 
-	// you can extend the options like a normal JSON variable:
 	options.nodes = {
 		color: 'red'
 	};
 
+	// Still not sure which physic would be best for this
 	options.physics = {
 		solver: 'forceAtlas2Based'
 	};
 
 	// create a network
-	let network = new vis.Network(container, data, options);
+	network = new vis.Network(container, data, options);
 	network.on('click', function (params) {
 		$("#eventlog").append(JSON.stringify(params));
 
 	});
 }
 
+// Update color if courses are already taken
 $(".form").change(function () {
 	let str = "";
 	$(".form input:checked").each(function () {
+		let res = $("label[for=\'" + $(this)[0].id + "\']").text().replace(/^\s+|\s+$/g, '');
+		nodes.update({
+			id: res,
+			color: {
+				border: '#2B7CE9',
+				background: '#97C2FC',
+			}
+		});
+	});
+	$(".form input:not(:checked)").each(function () {
 		console.log("label[for=\'" + $(this)[0].id + "\']");
-		str += $("label[for=\'" + $(this)[0].id + "\']").text();
+		let res = $("label[for=\'" + $(this)[0].id + "\']").text().replace(/^\s+|\s+$/g, '');
+		str += res + '\n';
+		nodes.update({
+			id: res,
+			color: {
+				border: '#F03030',
+				background: '#F03030',
+			}
+		});
 	});
 	console.log(str);
 });

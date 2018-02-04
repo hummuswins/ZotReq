@@ -33,6 +33,13 @@ public class Graph {
         }
     }
 
+    /**
+     * Insert course into the graph
+     *
+     * @param course      The ID of the course
+     * @param courseTitle The title of the course
+     * @param preqs       Array of perquisite courses' ID
+     */
     void insertCourse(String course, String courseTitle, String... preqs) {
         if (!courseToID.containsKey(course)) {
             courseToID.put(course, numCourses++);
@@ -54,6 +61,16 @@ public class Graph {
         }
     }
 
+    // TODO: Remove course based on courseId
+    public void removeCourse(int courseId) {
+
+    }
+
+    /**
+     * This will be the DOT representation for the graph (doing it manually,
+     * if you have any automatic way, I welcome it.
+     * @return DOT notation of the graph
+     */
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
@@ -73,6 +90,10 @@ public class Graph {
         return builder.toString();
     }
 
+    /**
+     * I didn't do anything with this yet (Please halp).
+     * @param fileName name of file
+     */
     void readCSV(String fileName) {
         try {
             Reader in = new FileReader(fileName);
