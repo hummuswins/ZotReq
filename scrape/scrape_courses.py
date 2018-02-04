@@ -21,7 +21,11 @@ def separate(prereqs):
     #can easily represent this [[str]] through [str] -> str tree
 
     prereqs = str(prereqs)
-    prereqs = re.sub(r"[\[*\]*\'*]|\s{2,}", '', prereqs)
+    prereqs = re.sub(r"[\[*\]*\'*]", '', prereqs)    
+    prereqs = re.sub(r"^\s|\s{2,}", '', prereqs)
+    prereqs = re.sub(r"\s,", ',', prereqs)    
+
+
     #prereqs = re.sub(r"\sC\s|\sC$|\s3\s|\s4\s|\s5\s|SUB", '', prereqs)
     #prereqs = re.sub(r"\s{2,}", '', prereqs)
 
@@ -46,10 +50,8 @@ uClient = None
 my_url = "https://www.reg.uci.edu/cob/prrqcgi?term=201803&dept=COMPSCI&action=view_by_term#112"
 
 filename = "courses.csv"
-headers = ("Course, Title, Prereqs\n")
 
 f = open(filename, 'w')
-f.write(headers)
 
 try:
     uClient = uReq(my_url)
