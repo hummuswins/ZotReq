@@ -22,7 +22,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ff0e240-aef1-4829-acc5-11a5069a47fc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" afterPath="$PROJECT_DIR$/courseGraph/main/java/Graph.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -844,7 +843,7 @@
       <workItem from="1517694067662" duration="33000" />
       <workItem from="1517694115369" duration="1788000" />
       <workItem from="1517696307061" duration="636000" />
-      <workItem from="1517697226811" duration="10467000" />
+      <workItem from="1517697226811" duration="10491000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed gradle importing for Servlet and how the project is structured.">
       <created>1517697578551</created>
@@ -874,11 +873,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517707385223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix toString bug because I didn't know DOT&#10;&#10;Signed-off-by: James Nguyen &lt;jamesminhanh@gmail.com&gt;">
+      <created>1517707793642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517707793642</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20956000" />
+    <option name="totallyTimeSpent" value="20980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -969,7 +975,8 @@
     <MESSAGE value="Added functionality to add to Course taken based on what nodes are in the graph" />
     <MESSAGE value="Added bootstrap, checklist will change graph color, and some documentation" />
     <MESSAGE value="Fix toString bug because I didn't know DOT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix toString bug because I didn't know DOT" />
+    <MESSAGE value="Fix toString bug because I didn't know DOT&#10;&#10;Signed-off-by: James Nguyen &lt;jamesminhanh@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix toString bug because I didn't know DOT&#10;&#10;Signed-off-by: James Nguyen &lt;jamesminhanh@gmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
