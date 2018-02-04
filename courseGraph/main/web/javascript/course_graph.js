@@ -49,7 +49,7 @@ function parseData(graphData) {
 	// create a network
 	network = new vis.Network(container, data, options);
 	network.on('click', function (params) {
-		$("#eventlog").append(JSON.stringify(params));
+		console.log(JSON.stringify(params));
 
 	});
 }
