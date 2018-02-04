@@ -1,8 +1,0 @@
-icsprereq {
-    cs122a -> cs122b; ics31 -> ics32 -> ics33 -> ics45j -> cs122b;
-    ics33 -> ics45c -> ics46 -> cs161;
-    ics6b -> ics6d -> cs161;
-    ics6b -> cs161;
-    math2b -> cs161;
-    ics33 -> cs122a;
-}
