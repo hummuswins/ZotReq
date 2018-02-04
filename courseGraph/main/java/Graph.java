@@ -30,11 +30,14 @@ public class Graph {
 
         Course course = courses.get(courseID);
         course.setTaken(true);
+
+        System.out.println("Taking Course: " + course.getCourseName());
+
         ArrayList<Integer> requiredFor = course.getReqs();
         for (Integer req : requiredFor) {
             Course updateCourse = courses.get(req);
             updateCourse.decrementPreqs();
-            if (updateCourse.canTake()) {
+            if (!updateCourse.isTaken() && updateCourse.canTake()) {
                 newCanTakeCourses.add(req);
             }
         }
@@ -67,8 +70,10 @@ public class Graph {
      * @param preqs       Array of perquisite courses' ID
      */
     void insertCourse(String course, String courseTitle, ArrayList<String> preqs) {
+        System.out.println("Inserting: " + course + " " + courseTitle + ": ");
         if (!courseToID.containsKey(course)) {
-            courseToID.put(course, numCourses++);
+            courseToID.put(course, numCourses);
+            numCourses++;
             courses.add(new Course(course, courseTitle));
         } else {
             courses.get(courseToID.get(course)).setCourseTitle(courseTitle);
@@ -77,12 +82,14 @@ public class Graph {
         int courseIndex = courseToID.get(course);
         boolean newOr = false;
 
+        System.out.print("Preqs: ");
         for (String preq : preqs) {
             if (preq.contains("AND")) {
                 newOr = true;
             } else {
                 if (!courseToID.containsKey(preq)) {
-                    courseToID.put(preq, numCourses++);
+                    courseToID.put(preq, numCourses);
+                    numCourses++;
                     courses.add(new Course(preq, null));
                 }
                 int preqIndex = courseToID.get(preq);
@@ -91,8 +98,10 @@ public class Graph {
 
                 newOr = false;
             }
-
+            System.out.print(preq);
         }
+
+        System.out.println();
     }
 
     // TODO: Remove course based on courseId
@@ -107,6 +116,7 @@ public class Graph {
      */
     @Override
     public String toString() {
+        System.out.println("Took " + numCourses + " courses.");
         StringBuilder builder = new StringBuilder();
         builder.append("course {\n");
         for (Course course : courses) {
@@ -136,10 +146,15 @@ public class Graph {
             for (CSVRecord record : records) {
                 ArrayList<String> preqs = new ArrayList<>();
                 preqs.ensureCapacity(record.size() - 2);
+
+                //System.out.print("Reading csv record: " + record.get(0) + ", " + record.get(1) + ", ");
                 for (int i = 2; i < record.size(); i++) {
+                    System.out.print(record.get(i) + ", ");
                     String column = record.get(i);
-                    preqs.add(column);
+                    if (column != "")
+                        preqs.add(column);
                 }
+                //System.out.println();
                 insertCourse(record.get(0), record.get(1), preqs);
             }
         } catch (IOException e) {
@@ -154,5 +169,16 @@ public class Graph {
 
     String getName(int courseID) {
         return courseToID.inverse().get(courseID);
+    }
+
+    void printCourseArray() {
+        for (Course course : courses) {
+            assert (!course.getCourseName().contains("AND"));
+            System.out.print(course.getCourseName() + "  " + course.getCourseTitle() + " ");
+            for (int courseID : course.getReqs()) {
+                System.out.print(getName(courseID) + " ");
+            }
+            System.out.println();
+        }
     }
 }
