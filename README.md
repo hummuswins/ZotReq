@@ -33,7 +33,7 @@ Teamwork - Dividing tasks up and assigning them based off each of our respective
 <h4>What’s next for ZotReqs</h4>
 Currently, ZotReqs only supports Computer Science majors. With a little more time, we will be able to add classes for every major in the UC system.
 
-Built with
+<h4>Built with</h4>
 Java, Javascript, Python, vis, bootstrap, jquery
 
 
