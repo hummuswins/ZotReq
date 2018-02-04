@@ -66,7 +66,7 @@ public class Graph {
      * @param courseTitle The title of the course
      * @param preqs       Array of perquisite courses' ID
      */
-    void insertCourse(String course, String courseTitle, String... preqs) {
+    void insertCourse(String course, String courseTitle, ArrayList<String> preqs) {
         if (!courseToID.containsKey(course)) {
             courseToID.put(course, numCourses++);
             courses.add(new Course(course, courseTitle));
@@ -82,7 +82,7 @@ public class Graph {
                 courses.add(new Course(preq, null));
             }
             int preqIndex = courseToID.get(preq);
-            courses.get(courseIndex).addPreq(preqIndex);
+            //courses.get(courseIndex).addPreq(courses[preqIndex]);
             courses.get(preqIndex).addReq(courseIndex);
         }
     }
@@ -126,8 +126,13 @@ public class Graph {
             Reader in = new FileReader(fileName);
             Iterable<CSVRecord> records = CSVFormat.EXCEL.parse(in);
             for (CSVRecord record : records) {
-                String lastName = record.get("Last Name");
-                String firstName = record.get("First Name");
+                ArrayList<String> preqs = new ArrayList<>();
+                preqs.ensureCapacity(record.size() - 2);
+                for (int i = 2; i < record.size(); i++) {
+                    String column = record.get(i);
+                    preqs.add(column);
+                }
+                insertCourse(record.get(0), record.get(1), preqs);
             }
         } catch (IOException e) {
             e.printStackTrace();

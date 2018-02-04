@@ -7,6 +7,7 @@ public class Course {
     private ArrayList<Integer> reqs;
     private String courseName;
     private String courseTitle;
+    private AndNode preqTree;
 
     Course(String courseName, String courseTitle) {
         taken = false;
@@ -15,11 +16,13 @@ public class Course {
         reqs = new ArrayList<>();
         this.courseName = courseName;
         this.courseTitle = courseTitle;
+        preqTree = new AndNode();
     }
 
-    void addPreq(int courseID) {
+    void addPreq(Course course, int courseID, boolean newOr) {
         numUntakenPreqs++;
         preqs.add(courseID);
+        preqTree.insertCourse(course, newOr);
     }
 
     void addReq(int courseID) {
