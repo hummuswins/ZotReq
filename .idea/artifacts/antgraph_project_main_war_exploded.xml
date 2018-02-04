@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="antgraph.project_main:war exploded">
+  <artifact type="exploded-war" build-on-make="true" name="antgraph.project_main:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/antgraph_project_main_war_exploded</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
