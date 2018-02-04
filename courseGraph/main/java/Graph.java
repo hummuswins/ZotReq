@@ -19,18 +19,44 @@ public class Graph {
         courses = new ArrayList<>();
     }
 
+
     void takeCourse(String courseName) {
         Integer id = courseToID.get(courseName);
         takeCourse(id);
     }
 
-    private void takeCourse(int courseID) {
+    ArrayList<Integer> takeCourse(int courseID) {
+        ArrayList<Integer> newCanTakeCourses = new ArrayList<>();
+
         Course course = courses.get(courseID);
         course.setTaken(true);
         ArrayList<Integer> requiredFor = course.getReqs();
         for (Integer req : requiredFor) {
-            courses.get(req).decrementPreqs();
+            Course updateCourse = courses.get(req);
+            updateCourse.decrementPreqs();
+            if (updateCourse.canTake()) {
+                newCanTakeCourses.add(req);
+            }
         }
+
+        return newCanTakeCourses;
+    }
+
+    ArrayList<Integer> untakeCourse(String courseName) {
+        ArrayList<Integer> newCannotTakeCourses = new ArrayList<>();
+
+        Integer courseID = getID(courseName);
+        Course course = courses.get(courseID);
+        ArrayList<Integer> requiredFor = course.getReqs();
+        for (Integer req : requiredFor) {
+            Course updateCourse = courses.get(req);
+            updateCourse.incremementReqs();
+            if (!updateCourse.canTake()) {
+                newCannotTakeCourses.add(req);
+            }
+        }
+
+        return newCannotTakeCourses;
     }
 
     /**
@@ -40,7 +66,7 @@ public class Graph {
      * @param courseTitle The title of the course
      * @param preqs       Array of perquisite courses' ID
      */
-    void insertCourse(String course, String courseTitle, String... preqs) {
+    void insertCourse(String course, String courseTitle, ArrayList<String> preqs) {
         if (!courseToID.containsKey(course)) {
             courseToID.put(course, numCourses++);
             courses.add(new Course(course, courseTitle));
@@ -56,7 +82,7 @@ public class Graph {
                 courses.add(new Course(preq, null));
             }
             int preqIndex = courseToID.get(preq);
-            courses.get(courseIndex).addPreq(preqIndex);
+            //courses.get(courseIndex).addPreq(courses[preqIndex]);
             courses.get(preqIndex).addReq(courseIndex);
         }
     }
@@ -100,12 +126,25 @@ public class Graph {
             Reader in = new FileReader(fileName);
             Iterable<CSVRecord> records = CSVFormat.EXCEL.parse(in);
             for (CSVRecord record : records) {
-                String lastName = record.get("Last Name");
-                String firstName = record.get("First Name");
+                ArrayList<String> preqs = new ArrayList<>();
+                preqs.ensureCapacity(record.size() - 2);
+                for (int i = 2; i < record.size(); i++) {
+                    String column = record.get(i);
+                    preqs.add(column);
+                }
+                insertCourse(record.get(0), record.get(1), preqs);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
 
+    }
+
+    int getID(String courseName) {
+        return courseToID.get(courseName);
+    }
+
+    String getName(int courseID) {
+        return courseToID.inverse().get(courseID);
     }
 }

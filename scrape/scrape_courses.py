@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as soup
 import re
 
 def separate(prereqs):
-    prereqs = re.sub(r'[a-z=;]', '', prereqs)
+    prereqs = re.sub(r'[a-z=();]', '', prereqs)
     prereqs = ' '.join(prereqs.split())
     prereqs = prereqs.split('AND')
     for x in range(len(prereqs)):
