@@ -57,6 +57,7 @@ public class Graph {
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
+        builder.append("course {\n");
         for (Course course : courses) {
             builder.append(course.getCourseName());
 
@@ -68,11 +69,8 @@ public class Graph {
             }
             builder.append(";\n");
         }
+        builder.append("}");
         return builder.toString();
-    }
-
-    void getDotFile() {
-
     }
 
     void readCSV(String fileName) {
