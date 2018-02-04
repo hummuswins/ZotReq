@@ -1,6 +1,4 @@
-.gradle
-.idea
-out
+out/
 =======
 
 # Created by https://www.gitignore.io/api/java,gradle,intellij
