@@ -1,0 +1,582 @@
+COMPSCI 111,Introduction to the fundamental concepts of digital signal and image processing as applicable in areas such as multimedia, graphics, AI, data mining, databases, vision, or video games. Topics include image representation, space- and frequency-domain transformations, filters, segmentation, and compression.
+
+COMPSCI 112,Introduction to the fundamental principles of 3D computer graphics including polygonal modeling, geometric transformations, visibility algorithms, illumination models, texturing, and rasterization. Use of an independently-learned 3D graphics API to implement these techniques.
+
+COMPSCI 113,Introduction to the principles of interactive 2D and 3D computer game development. Concepts in computer graphics, algorithms, software engineering, art and graphics, music and sound, story analysis, and artificial intelligence are presented and are the basis for student work.
+
+COMPSCI 114,Projects in advanced 3D graphics such as illumination, geometric modeling, visualization, and animation. Topics include physically based and global illumination, solid modeling, curved surfaces, multiresolution modeling, image-based rendering, basic concepts of animation, and scientific visualization.
+
+COMPSCI 115,Discrete event-driven simulation; continuous system simulation; basic probability as pertaining to input distributions and output analysis; stochastic and deterministic simulation; static and dynamic system simulation.
+
+COMPSCI 116,Introduces the problems of computer vision through the application of computational photography. Specific topics include photo-editing (image warping, compositing, hole filling), panoramic image stitching, and face detection for digital photographs.
+
+COMPSCI 117,Students undertake construction of a computer vision system. Topics include automatically building 3D models from photographs, searching photo collections, robot navigation, and human motion tracking.
+
+COMPSCI 121,An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents.
+
+COMPSCI 122A,Introduction to the design of databases and the use of database management systems (DBMS) for applications. Topics include entity-relationship modeling for design, relational data model, relational algebra, relational design theory, and Structured Query Language (SQL) programming.
+
+COMPSCI 122B,Introduces students to advanced database technologies and Web applications. Topics include database connectivity (ODBC/JDBC), extending databases using stored procedures, database administration, Web servers, Web programming languages (Java servlets, XML, Ajax, and mobile platforms).
+
+COMPSCI 122C,Covers fundamental principles underlying data management systems. Content includes key techniques including storage management, buffer management, record-oriented file system, access methods, query optimization, and query processing.
+
+COMPSCI 125,Discusses concepts and techniques related to all aspects of search systems. After considering basic search technology and the state-of-art systems, rapidly developing techniques for multimedia search, local search, event-search, and video-on-demand are explored.
+
+COMPSCI 131,Parallel and distributed computer systems. Parallel programming models. Common parallel and distributed programming issues. Specific topics include parallel programming, performance models, coordination and synchronization, consistency and replication, transactions, fault tolerance.
+
+COMPSCI 132,Computer network architectures, protocols, and applications.  Internet congestion control, addressing, and routing. Local area networks. Multimedia networking.
+
+COMPSCI 133,Fundamental principles in computer networks are applied to obtain practical experience and skills necessary for designing and implementing computer networks, protocols, and network applications. Various network design techniques, simulation techniques, and UNIX network programming are covered.
+
+COMPSCI 134,Overview of modern computer and networks security, attacks, and countermeasures. Authentication, identification, data secrecy, data integrity, authorization, access control, computer viruses, network security. Also covers secure e-commerce and applications of public key methods, digital certificates, and credentials.
+
+COMPSCI 137,Concepts in Internet applications engineering with emphasis on the Web. Peer-to-Peer and Interoperability. Topics include HTTP and REST, Remote Procedure/Method Calls, Web Services, data representations, content distribution networks, identity management, relevant W3C/IETF standards, and relevant new large-scale computing styles.
+
+COMPSCI 141,In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+
+COMPSCI 142A,Introduction to the theory of programming language processors covering lexical analysis, syntax analysis, semantic analysis, intermediate representations, code generation, optimization, interpretation, and run-time support.
+
+COMPSCI 142B,Project course which provides working laboratory experience with construction and behavior of compilers and interpreters. Students build actual language processors and perform experiments which reveal their behaviors.
+
+COMPSCI 143A,Principles and concepts of process and resource management, especially as seen in operating systems. Processes, memory management, protection, scheduling, file systems, and I/O systems are covered. Concepts illustrated in the context of several well-known systems.
+
+COMPSCI 143B,Detailed specification and design of critical components of an actual operating system including a memory manager, a process server, and a file/IO subsystem. Hardware/software tradeoffs. Emphasis on logical organization of system and communication.
+
+COMPSCI 145,Principles of embedded computing systems: embedded systems architecture, hardware/software components, system software and interfacing, real-time operating systems, hardware/software co-development, and communication issues. Examples of embedded computing in real-world application domains. Simple programming using an embedded systems development environment.
+
+COMPSCI 145L,Laboratory section to accompany CSE 145 or COMPSCI 145.
+
+COMPSCI 146,User- and systems-level programming of modern Internet-connected, multi-user, multitasking operating systems. Shells, scripting, filters, pipelines, programmability, extensibility, concurrency, inter-process communication. Concrete examples of a modern operating system (such as, but not necessarily, Unix programmed in C) are used.
+
+COMPSCI 151,Boolean algebra. Design/analysis of combinational and sequential systems using SSI/MSI/LSI modules. Number systems. Error detecting and correction codes. Arithmetic algorithms. Hardware/ firmware implementation of algorithms.
+
+COMPSCI 152,Design of computer elements; ALU, control unit, and arithmetic circuits. Memory hierarchy and organization.  Caches. Function unit sharing and pipelining. I/O and interrupt processing. RTL and behavioral modeling using hardware description languages. Microprocessor organization and implementation techniques.
+
+COMPSCI 153,Introduction to standard integrated circuits. Construction and debugging techniques. Design of digital systems using LSI and MSI components. Practical use of circuits in a laboratory environment, including implementation of small digital systems such as arithmetic modules, displays, and timers.
+
+COMPSCI 154,Underlying primitives of computer instruction sets. Principles of microprogramming. Microprogramming. Microprograms written for one or more systems. Typical microprogramming applications discussed and implemented or simulated.
+
+COMPSCI 161,Techniques for efficient algorithm design, including divide-and-conquer and dynamic programming, and time/space analysis. Fast algorithms for problems applicable to networks, computer games, and scientific computing, such as sorting, shortest paths, minimum spanning trees, network flow, and pattern matching.
+
+COMPSCI 162,Formal aspects of describing and recognizing languages by grammars and automata.  Parsing regular and context-free languages.  Ambiguity, nondeterminism.  Elements of computability; Turning machines, random access machines, undecidable problems, NP-completeness.
+
+COMPSCI 163,Algorithms for solving fundamental problems in graph theory. Graph representations, graph traversal, network flow, connectivity, graph layout, matching problems.
+
+COMPSCI 164,Algorithms and data structures for computational geometry and geometric modeling, with applications to game and graphics programming. Topics: convex hulls, Voronoi diagrams, algorithms for triangulation, motion planning, and data structures for geometric searching and modeling of 2D and 3D objects.
+
+COMPSCI 165,Design, implementation, execution, and analysis of algorithms for problems such as sorting, searching, data compression, and data encryption. Time-space-structure trade-offs.
+
+COMPSCI 167,An introduction to the essential aspects of applied cryptography, as it is used in practice. Topics include classical cryptography, block ciphers, stream ciphers, public-key cryptography, digital signatures, one-way hash functions, basic cryptographic protocols, and digital certificates and credentials.
+
+COMPSCI 169,A broad introduction to optimization. Unconstrained and constrained optimization. Equality and inequality constraints. Linear and integer programming. Stochastic dynamic programming.
+
+COMPSCI 171,Different means of representing knowledge and uses of representations in heuristic problem solving. Representations considered include predicate logic, semantic nets, procedural representations, natural language grammars, and search trees.
+
+COMPSCI 172B,Neural network and deep learning from multiple perspectives. Theory of parallel distributed processing systems, algorithmic approaches for learning from data in various manners, applications to difficult problems in AI from computer vision, to natural language understanding, to bioinformatics and chemoinformatics.
+
+COMPSCI 175,Construction of a working artificial intelligence system. Evaluation of capabilities of the system including impact of knowledge representation.
+
+COMPSCI 177,Application of probability to real-world problems in computer science. Typical topics include analysis of algorithms and graphs, probabilistic language models, network traffic modeling, data compression, and reliability modeling.
+
+COMPSCI 178,Introduction to principles of machine learning and data-mining applied to real-world datasets. Typical applications include spam filtering, object recognition, and credit scoring.
+
+COMPSCI 179,Graphical model techniques dealing with probabilistic and deterministic knowledge representations. Focuses on graphical models such as constraint networks, Bayesian networks, and Markov networks that have become a central paradigm for knowledge representation and reasoning in AI and general computer science.
+
+COMPSCI 183,The use of theories and methods based on computer science, mathematics, and physics in molecular biology and biochemistry. Basics in biomolecular modeling. Analysis of sequence and structural data of biomolecules. Analysis of biomolecular functions.
+
+COMPSCI 184A,Introduction to computational methods in molecular biology, aimed at those interested in learning about this interdisciplinary area. Covers computational approaches to understanding and predicting the structure, function, interactions, and evolution of DNA, RNA, proteins, and related molecules and processes.
+
+COMPSCI 184B,A unified Bayesian probabilistic framework for modeling and mining biological data. Applications range from sequence (DNA, RNA, proteins) to gene expression data. Graphical models, Markov models, stochastic grammars, structure prediction, gene finding, evolution, DNA arrays, single- and multiple-gene analysis.
+
+COMPSCI 184C,Computational inference and modeling of gene regulation networks, signal transduction pathways, and the effects of regulatory networks in cellular processes, development, and disease. Introduction of required mathematical, computational, and data handling tools.
+
+COMPSCI 189,Teaches problem definition and analysis, data representation, algorithm design, component integration, solution validation, and testability with teams specifying, designing, building, and testing a solution to a bioinformatics problem. Lectures include engineering values, discussions, and ethical ramifications of biomedical computing issues.
+
+COMPSCI 190,Studies in selected areas of Information and Computer Science. Topics addressed vary each quarter.
+
+COMPSCI H198,Directed independent research in computer science for honors students.
+
+COMPSCI 199,Individual research or investigation with Computer Science faculty.
+
+COMPSCI 200S,Graduate colloquium series. Includes weekly talks by notable computer scientists.
+
+COMPSCI 201,Explores fundamental cryptographic tools, including encryption, signatures, and identification schemes. Students are introduced to the provable security paradigm of modern cryptography, focusing on understanding of security properties provided by cryptographic tools, and on proving security (or insecurity) of cryptographic constructions.
+
+COMPSCI 202,Design and analysis of algorithms for applied cryptography. Topics include symmetric and asymmetric key encryption, digital signatures, one-way hash functions, digital certificates and credentials, and techniques for authorization, non-repudiation, authentication, identification, data integrity, proofs of knowledge, and access control.
+
+COMPSCI 203,Modern computer and networks security: attacks and countermeasures, authentication, identification, data secrecy, data integrity, authorization, access control, computer viruses, network security. Group communication and multicast security techniques. Covers secure e-commerce and applications of public key methods, digital certificates, and credentials.
+
+COMPSCI 204,Introduces usability problems in security and privacy methods, tools, and software. Overviews prominent examples of both failures and successes in usable security and privacy. Surveys state-of- the-art techniques and evaluation methodologies.
+
+COMPSCI 206,Overview of widely used principles and methods of numerical and scientific computing, including basic concepts and computational methods in linear algebra, optimization, and probability.
+
+COMPSCI 206P,Overview of widely used principles and methods of numerical and scientific computing, including basic concepts and computational methods in floating-point, linear algebra, optimization, simulation, modeling, and probability/statistics as it relates to model evaluation.
+
+COMPSCI 211A,Fundamentals of image processing (convolution, linear filters, spectral analysis), vision geometry (projective geometry, camera models and calibration, stereo reconstruction), radiometry (color, shading, illumination, BRDF), and visual content synthesis (graphics pipeline, texture- bump-, mip-mapping, hidden surface removal, anti-aliasing).
+
+COMPSCI 211B,Interactive 3D graphics rendering pipeline,  illumination and shading, ray tracing,  texture-, bump-, mip-mapping, hidden surface removal, anti-aliasing,  multiresolution representations, volume rendering techniques, iso-surface extraction.
+
+COMPSCI 211P,Develops a comprehensive understanding of fundamentals of image processing (convolution, linear filters, spectral analysis), vision geometry (projective geometry, camera models and calibration, stereo reconstruction), radiometry (color, shading, illumination, BRDF), visual content synthesis (graphics pipeline, texture- bump-, mip-mapping, hidden surface, anti-aliasing).
+
+COMPSCI 212,Organization and structure of modern multimedia systems; audio and video encoding/compression; quality of service concepts; scheduling algorithms for multimedia; resource management in distributed and multimedia systems; multimedia protocols over high-speed networks; synchronization schemes; multimedia applications; and teleservices.
+
+COMPSCI 213,Introduction to the process of human visual perception. Offers the physiological and psychophysical approach to understand vision, introducing concepts of perception of color, depth, movement. Examples of quantification and application of these models in computer vision, computer graphics, multimedia, HCI.
+
+COMPSCI 216,The goal of image understanding is to extract useful semantic information from image data. Course covers low-level image and video processing techniques, feature descriptors, segmentation, objection recognition, and tracking.
+
+COMPSCI 217,Examines the issues of light transport and multiview geometry in computer vision. Applications include camera calibration, 3D understanding, stereo reconstruction, and illumination estimation.
+
+COMPSCI 221,Algorithms for the storage, retrieval, filtering, and classification of textual and multimedia data. The vector space model, Boolean and probabilistic queries, and relevance feedback. Latent semantic indexing; collaborative filtering; and relationship to machine learning methods.
+
+COMPSCI 222,Covers fundamental principles underlying data management systems. Content includes key techniques including storage management, buffer management, record-oriented file system, access methods, query optimization, and query processing.
+
+COMPSCI 222P,Covers fundamental principles underlying data management systems. Understanding and implementation of key techniques including storage management, buffer management, record-oriented file system, access methods, query optimization, and query processing.
+
+COMPSCI 223,Covers fundamental principles underlying transaction processing including database consistency, concurrency control, database recovery, and fault-tolerance. Includes transaction processing in centralized, distributed, parallel, and client-server environments.
+
+COMPSCI 225,Discusses concepts and techniques related to all aspects of search systems. After considering basic search technology and the state-of-art systems, rapidly developing techniques for multimedia search, local search, event-search, and video-on-demand are explored.
+
+COMPSCI 230,Principles of distributed computing systems. Topics covered include message-passing, remote procedure calls, distributed shared memory synchronization, resource and process/thread management, distributed file systems, naming and security.
+
+COMPSCI 232,Network architecture of the Internet, telephone networks, cable networks, and cell phone networks. Network performance models. Network performance models. Advanced concepts and implementations of flow and congestion control, addressing, internetworking, forwarding, routing, multiple access, streaming, and quality-of-service.
+
+COMPSCI 232P,Internet architecture, protocols, and services. Advanced concepts of IP and TCP, including addressing, internetworking, forwarding, routing, and implementations of flow and congestion control. Internet services such as Network Address Translation and Domain Name Servers. Overview of Local Area Networks.
+
+COMPSCI 233,A laboratory-based introduction to basic networking concepts such as addressing, sub-netting, bridging, ARP, and routing. Network simulation and design. Structured around weekly readings and laboratory assignments.
+
+COMPSCI 234,Design principles of networked systems, advanced routing and congestion control algorithms, network algorithms, network measurement, management, security, Internet economics, and emerging networks.
+
+COMPSCI 236,Introduction to wireless networking. The focus is on layers 2 and 3 of the OSI reference model, design, performance analysis, and protocols. Topics covered include: an introduction to wireless networking, digital cellular, next generation cellular, wireless LANs, and mobile IP.
+
+COMPSCI 237,Discusses concepts, techniques, and issues in developing distributed systems middleware that provides high performance and Quality of Service for emerging applications. Also covers existing standards (e.g., CORBA, DCOM, Jini, Espeak) and their relative advantages and shortcomings.
+
+COMPSCI 238,Focuses on advanced and graduate-level topics in operating systems. Presents important recent developments in operating systems, topics not covered in undergraduate operating systems courses. This includes novel operating system designs and techniques to improve existing ones.
+
+COMPSCI 241,Advanced study of programming language implementation techniques: optimizations such as common sub-expression elimination, register allocation, and instruction scheduling. Implementation of language features such as type-directed dispatch, garbage collection, dynamic linking, and just-in-time code generation.
+
+COMPSCI 242,Definition of parallel processing systems. Theory and application of arrays, trees, and hypercubes. Computational models, applications: sorting, integer arithmetic, matrix operations, Fast Fourier Transform, and others. Interconnection networks: a framework for the description, analysis, and construction of hypercube-derived networks.
+
+COMPSCI 243,Emphasis on the development of automatic tools (i.e., compilers/environments) for the efficient exploitation of parallel machines, and the trade-offs between hardware and software in the design of supercomputing and high-performance machines.
+
+COMPSCI 244,Embedded and ubiquitous system technologies including processors, DSP, memory, and software. System interfacing basics; communication strategies; sensors and actuators, mobile and wireless technology. Using pre-designed hardware and software components. Design case studies in wireless, multimedia, and/or networking domains.
+
+COMPSCI 244P,Develops a comprehensive understanding of the hardware and software technology, the communication protocols, and the security and privacy requirements underlying the Internet of Things ecosystem, particularly those using computing elements (processors, DSPs/ ASIPs), sensors, and accessing cloud services.
+
+COMPSCI 245,Embedded computing elements, device interfaces, time-critical IO handling. Embedded software design under size, performance, and reliability constraints. Software timing and functional validation. Programming methods and compilation for embeddable software. Embedded runtime systems. Case studies of real-time software systems.
+
+COMPSCI 246,Embedded system building blocks, including IP cores. Dependability and Resilience. Co-simulation. Formal verification using model checking. Verification environments. Test challenges in core integration: compliance, feature, random, and collision testing. Core access and test integration. Interface-based verification and standards.
+
+COMPSCI 248A,The "disappearing computer" paradigm. Differences to the desktop computing model: applications, interaction in augmented environments, security, alternate media, small operating systems, sensors, and embedded systems design. Evaluation by project work and class participation.
+
+COMPSCI 248B,Principles and design techniques for ubiquitous computing applications. Conceptual basis for tangible and embodied interaction. Interaction in virtual and augmented environments. Design methods and techniques. Design case studies. Examination by project work.
+
+COMPSCI 250A,Study of architectural issues and their relation to technology and software: design of processor, interconnections, and memory hierarchies.
+
+COMPSCI 250B,Fundamental concepts and recent advances in computer architecture necessary to understand and use modern microprocessors. Topics span out-of-order execution, multiple instruction issue, control/data speculation, predication, advanced cache and DRAM organizations, embedded systems, DSP and multi-media instructions.
+
+COMPSCI 250P,Study of architectural issues and their relation to technology and software: design of processor, interconnections, and memory hierarchies.
+
+COMPSCI 252,The methodology and use of CAD tools for computer design, accomplished by a lab in which students practice design using commercially available silicon compilers and other tools.
+
+COMPSCI 253,Concepts in modern programming languages, their interaction, and the relationship between programming languages and methods for large-scale, extensible software development. Empirical analysis of programming language usage.
+
+COMPSCI 259S,Current research and research trends in design science. Forum for presentation and criticism by students of research work in progress.
+
+COMPSCI 260,Covers fundamental concepts in the design and analysis of algorithms and is geared toward non-specialists in theoretical computer science. Topics include: deterministic and randomized graph algorithms, fundamental algorithmic techniques like divide-and-conquer strategies and dynamic programming, and NP-completeness.
+
+COMPSCI 260P,Covers fundamental concepts in the design and analysis of algorithms and is geared toward practical application and implementation. Topics include greedy algorithms, deterministic and randomized graph algorithms, models of network flow, fundamental algorithmic techniques, and NP-completeness.
+
+COMPSCI 261,An in-depth treatment of data structures and their associated management algorithms including resource complexity analysis.
+
+COMPSCI 261P,Data structures and their associated management algorithms, including their applications and analysis.
+
+COMPSCI 262,Advanced course in computational models and complexity classes. Covers the fundamentals of Turing Machines, Decidability, and NP-completeness. Includes discussion of more advanced topics including polynomial hierarchy, randomized complexity classes, #P-completeness and hardness of approximation.
+
+COMPSCI 263,Analysis of correctness and complexity of various efficient algorithms; discussion of problems for which no efficient solutions are known.
+
+COMPSCI 264,Basic models for quantum computation and their foundations in quantum mechanics. Quantum complexity classes and quantum algorithms, including algorithms for factoring and quantum simulation. Introduction to quantum information theory and quantum entanglement.
+
+COMPSCI 265,Graph definitions, representation methods, graph problems, algorithms, approximation methods, and applications.
+
+COMPSCI 266,An overview of some of the basic problems in computational geometry and of some algorithmic and data-structuring techniques appropriate to their solution.
+
+COMPSCI 268,A broad introduction to optimization. Unconstrained and constrained optimization. Equality and inequality constraints. Linear and integer programming. Stochastic dynamic programming.
+
+COMPSCI 268P,A broad introduction to optimization modeling. Unconstrained and constrained optimization. Equality and inequality constraints. Linear and integer programming.  Practical implementation of combinatorial optimization, metaheurstics.
+
+COMPSCI 269S,Current research and research trends in the Theory of algorithms and data structures.
+
+COMPSCI 271,The study of theories and computational models for systems which behave and act in an intelligent manner. Fundamental subdisciplines of artificial intelligence including knowledge representation, search, deduction, planning, probabilistic reasoning, natural language parsing and comprehension, knowledge-based systems, and learning.
+
+COMPSCI 271P,The study of theories and computational models for systems which behave and act in an intelligent manner. Fundamental sub-disciplines of artificial intelligence, including knowledge representation, search, deduction, planning, probabilistic reasoning, natural language parsing and comprehension, knowledge-based systems, and learning.
+
+COMPSCI 273A,Computational approaches to learning algorithms for classifications, regression, and clustering. Emphasis is on discriminative classification methods such as decision trees, rules, nearest neighbor, linear models, and naive Bayes.
+
+COMPSCI 274A,An introduction to probabilistic and statistical techniques for learning from data, including parameter estimation, density estimation, regression, classification, and mixture modeling.
+
+COMPSCI 274B,Models for data analysis are presented in the unifying framework of graphical models. The emphasis is on learning from data but inference is also covered. Real world examples are used to illustrate the material.
+
+COMPSCI 274C,Neural network and deep learning from multiple perspectives. Theory of parallel distributed processing systems, algorithmic approaches for learning from data in various manners, applications to difficult problems in AI from computer vision, to natural language understanding, to bioinformatics and chemoinformatics.
+
+COMPSCI 275,Study of the theory and techniques of constraint network model. Covers techniques for solving constraint satisfaction problems: backtracking techniques, consistency algorithms, and structure-based techniques. Tractable subclasses. Extensions into applications such as temporal reasoning, diagnosis, and scheduling.
+
+COMPSCI 276,Focuses on algorithms for probabilistic reasoning using graphical models such as Bayesian Networks and Markov Networks that encode knowledge as local probabilistic relations. Tasks include finding most likely scenarios over a subset of variables, or updating posterior probability, given observations.
+
+COMPSCI 277,Introduction to the general principles of inferring useful knowledge from large data sets (commonly known as data mining or knowledge discovery). Relevant concepts from statistics, databases and data structures, optimization, artificial intelligence, and visualization are discussed in an integrated manner.
+
+COMPSCI 278,Advanced probability, discrete time Markov chains, Poisson processes, continuous time Markov chains. Queuing or simulation as time permits.
+
+COMPSCI 284A,Introduction to computational methods in molecular biology, aimed at those interested in learning about this interdisciplinary area. Covers computational approaches to understanding and predicting the structure, function, interactions, and evolution of DNA, RNA, proteins, and related molecules and processes.
+
+COMPSCI 284C,Computational inference and modeling of gene regulation networks, signal transduction pathways, and the effects of regulatory networks in cellular processes, development, and disease. Introduction of required mathematical, computational, and data handling tools.
+
+COMPSCI 285,Analytical and numerical methods for dynamical systems, temporal-spatial dynamics, steady state, stability, stochasticity. Application to life sciences: genetics, tissue growth and patterning, cancers, ion channels gating, signaling networks, morphogen gradients. Probabilistic methods.
+
+COMPSCI 290,Forum for presentation and criticism by students of research work in progress. Presentation of problem areas and related work. Specific goals and progress of research.
+
+COMPSCI 295,Studies in selected areas of Information and Computer Science. Topics addressed vary each quarter.
+
+COMPSCI 296,Introduces the concepts and principles of good scientific writing, demonstrates them by examples drawn from the literature, and uses a hands-on approach to apply them to documents being written by the participants.
+
+COMPSCI 296P,Written and oral communication for computer science and IT careers. Production of the detailed design and development document for the concurrent capstone design class and refinement of written documents and oral communications skills needed for a successful job search.
+
+COMPSCI 297P,Design and development of app, software system, or hardware component of system based on students' prior knowledge of advanced computer science principles. Implement at least a working prototype and test this using relevant use cases and/or input data.
+
+COMPSCI 298,Individual research or investigation conducted in preparation for the M.S. thesis option or the dissertation requirements for the Ph.D. program.
+
+COMPSCI 299,Individual research or investigation with Computer Science faculty.
+
+IN4MATX 12,Digital money has captured the broad imagination of speculators, coders, regulators, criminals and the mass media. Course puts this change in context: how do we understand money as a social, political and technological phenomenon?.
+
+IN4MATX 43,Concepts, methods, and current practice of software engineering. Large-scale software production, software life cycle models, principles and techniques for each stage of development.
+
+IN4MATX 101,In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+
+IN4MATX 102,In-depth study of major programming paradigms: imperative, functional, declarative, object-oriented, and aspect-oriented. Understanding the role of programming languages in software development and the suitability of languages in context. Domain-specific languages. Designing new languages for better software development support.
+
+IN4MATX 113,Aims to equip students to develop techniques of software-intensive systems through successful requirements analysis techniques and requirements engineering. Students learn systematic process of developing requirements through cooperative problem analysis, representation, and validation.
+
+IN4MATX 117,Specification, design, construction, testing, and documentation of a complete software system. Special emphasis on the need for and use of teamwork, careful planning, and other techniques for working with large systems.
+
+IN4MATX 121,Introduction to application design: designing the overall functionality of a software application. Topics include general design theory, software design theory, and software architecture. Includes practice in designing and case studies of existing designs.
+
+IN4MATX 122,Introduction to implementation design: designing the internals of a software application. Topics include design aesthetics, design implementation, design recovery, design patterns, and component reuse. Includes practice in designing and case studies of existing designs.
+
+IN4MATX 123,Prepares students to engineer well-structured software systems. Students learn a wide range of software architectural styles, architectural platforms that provide standard services to applications, and formal architecture description languages.
+
+IN4MATX 124,Concepts in Internet applications engineering with emphasis on the Web. Peer-to-Peer and Interoperability. Topics include HTTP and REST, Remote Procedure/Method Calls, Web Services, data representations, content distribution networks, identity management, relevant W3C/IETF standards, and relevant new large-scale computing styles.
+
+IN4MATX 125,Introduction to the principles of interactive 2D and 3D computer game development. Concepts in computer graphics, algorithms, software engineering, art and graphics, music and sound, story analysis, and artificial intelligence are presented and are the basis for student work.
+
+IN4MATX 131,Basic principles of human-computer interaction (HCI). Introduces students to user interface design techniques, design guidelines, and usability testing. Students gain the ability to design and evaluate user interfaces and become familiar with some of the outstanding research problems in HCI.
+
+IN4MATX 132,Students undertake significant projects in the elicitation and specification of HCI requirements and the thorough evaluation of user interfaces.
+
+IN4MATX 133,Introduction to human-computer interaction programming. Emphasis on current tools, standards, methodologies for implementing effective interaction designs. Widget toolkits, Web interface programming, geo-spatial and map interfaces, mobile phone interfaces.
+
+IN4MATX 134,Students complete an end-to-end user interface programming project based on an iterative design paradigm. Topics may include requirements brainstorming, paper prototyping, iterative development, cognitive walk-through, quantitative evaluation, and acceptance testing. Materials fee.
+
+IN4MATX 141,An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents.
+
+IN4MATX 143,Introduction to interactive visual interfaces for large datasets, and to principles of human visual perception and human computer interaction that inform their design. Various applications for data analysis and monitoring are discussed.
+
+IN4MATX 148,Introduction to ubiquitous computing research methods, tools, and techniques. Prototyping, design, and evaluation of physical computing applications, smart environments, embedded systems, and future computing scenarios. Includes hands-on in-class laboratory exercises. Materials fee.
+
+IN4MATX 151,Introduces theoretical and practical aspects of project management. Topics include organizational theory, group behavior, project management skills, case studies, personal and group productivity tools, management of distributed work, stakeholders, consultants, and knowledge management. Students do a project exercise.
+
+IN4MATX 153,Introduces concepts and principles of collaborative systems. Topics may include shared workspaces, group interaction, workflow, architectures, interaction between social and technical features of group work, and examples of collaborative systems used in real-world settings. Students develop a simple collaborative application.
+
+IN4MATX 161,Introduction of computing as a social process. Examines the social opportunities and problems raised by new information technologies, and the consequences of different ways of organizing. Topics include computing and work life, privacy, virtual communities, productivity paradox, systems risks.
+
+IN4MATX 162W,Introduction to role of information systems in organizations, components and structure of organizational information systems, and techniques used in information systems analysis, design, and implementation.
+
+IN4MATX 163,Students undertake projects intended to gather and analyze data from situations in which computers are used, organize and conduct experiments intended to test hypotheses about impacts, and explore the application of concepts learned in previous courses.
+
+IN4MATX 171,Broad overview of medical informatics for students with varied backgrounds. Electronic medical records, online resources, mobile technologies, patient safety, and computational design. Legal, ethical, and public policy issues. Health systems management. Evaluation and fieldwork for health systems.
+
+IN4MATX 172,Students undertake significant quarter-long projects related to health informatics. Topics may include field evaluations of health care technologies, prototypes, iterative design, and system implementations.
+
+IN4MATX 190,Studies in selected areas of informatics. Topics addressed vary each quarter.
+
+IN4MATX 191A,Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis.
+
+IN4MATX 191B,Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis.
+
+IN4MATX H198,Directed independent research in Informatics for honors students.
+
+IN4MATX 199,Individual research or investigation under the direction of an individual faculty member.
+
+IN4MATX 199Z,Test catalogue description. Materials fee.
+
+IN4MATX 201,Introduction to strategies and idioms of research in Informatics. Includes examination of issues in scientific inquiry, qualitative and quantitative methods, and research design. Both classic texts and contemporary research literature are read and analyzed.
+
+IN4MATX 203,Introduction to qualitative research methods used to study computerization and information systems, such as open-ended interviewing, participant observation, and ethnography. Studies of the methods in practice through examination of research literature.
+
+IN4MATX 205,Quantitative research methods used to study computerization and information systems. Design of instruments, sampling, sample sizes, and data analysis. Validity and reliability. Longitudinal versus cross-sectional designs. Analysis of secondary data. Studies of the methods through examination of research literature.
+
+IN4MATX 207S,Doctoral seminar centered on original research and writing. Provides a chance for doctoral students at all levels to present original work, brainstorm ongoing issues, and learn to provide and receive critical feedback from peers.
+
+IN4MATX 209S,Current research and research trends in informatics. Forum for presentation and criticism by students of research work in progress.
+
+IN4MATX 211,Study of the concepts, methods, and tools for the analysis, design, construction, and measurement of complex software-intensive systems. Underlying principles emphasized. State-of-the-art software engineering and promising research areas covered, including project management.
+
+IN4MATX 212,Concepts in modern programming languages, their interaction, and the relationship between programming languages and methods for large-scale, extensible software development. Empirical analysis of programming language usage.
+
+IN4MATX 213,Study of rigorous techniques in requirements engineering - requirements definition phase of software development - with focus on modeling and specification. Topics include notations and models for requirements specification; and methods, tools and processes for software requirements elicitation, representation, analysis.
+
+IN4MATX 215,Studies techniques for developing confidence in software from traditional testing schemes to integrated, multitechnique analytic approaches. Considers strengths and weaknesses and explores opportunities for synergistic technique application. Emphasis is on approaches integrated into the software process.
+
+IN4MATX 221,Study of the concepts, representation techniques, development methods, and tools for architecture-centric software engineering. Topics include domain-specific software architectures, architectural styles, architecture description languages, software connectors, and dynamism in architectures.
+
+IN4MATX 223,Study of concepts, representations, techniques, and case studies in structuring software systems, with an emphasis on design considerations. Topics include static and dynamic system structure, data models, abstractions, naming, protocols and application programmer interfaces.
+
+IN4MATX 225,Algorithms for the storage, retrieval, filtering, and classification of textual and multimedia data. The vector space model, Boolean and probabilistic queries, and relevance feedback. Latent semantic indexing; collaborative filtering; and relationship to machine learning methods.
+
+IN4MATX 231,Introduction to the design and evaluation of user interfaces, with an emphasis on methodology. Cognitive principles, design life cycle, on-line and off-line prototyping techniques. Toolkits and architectures for interactive systems. Evaluation techniques, including heuristic and laboratory methods.
+
+IN4MATX 232,Introduction to contemporary topics in human-computer interaction, including methods, technologies, design, and evaluation. Emerging application domains and their challenges to traditional research methods. Advanced architectures and technologies. Critical issues.
+
+IN4MATX 233,Explores example software systems and their underlying concepts that leverage computing to empower and augment human individuals in their activities. Topics span the fields of user interface design, human-computer interaction, software engineering, and cognitive computing.
+
+IN4MATX 235,Architectural concerns in advanced interactive systems. The design of current and emerging platforms for novel interactive systems. Paradigms such as constraint-based programming, multimodal interaction, and perceptual user interfaces for individual, distributed, and ubiquitous applications.
+
+IN4MATX 237,Introduces usability problems in security and privacy methods, tools, and software. Overviews prominent examples of both failures and successes in usable security and privacy. Surveys state-of- the-art techniques and evaluation methodologies.
+
+IN4MATX 241,The "disappearing computer" paradigm. Differences to the desktop computing model: applications, interaction in augmented environments, security, alternate media, small operating systems, sensors, and embedded systems design. Evaluation by project work and class participation.
+
+IN4MATX 242,Principles and design techniques for ubiquitous computing applications. Conceptual basis for tangible and embodied interaction. Interaction in virtual and augmented environments. Design methods and techniques. Design case studies. Examination by project work.
+
+IN4MATX 244,Embedded and ubiquitous system technologies including processors, DSP, memory, and software. System interfacing basics; communication strategies; sensors and actuators, mobile and wireless technology. Using pre-designed hardware and software components. Design case studies in wireless, multimedia, and/or networking domains.
+
+IN4MATX 251,The role of information systems in supporting work in groups and organizations. Examines various technologies designed to support communication, information sharing, and coordination. Focuses on behavioral and social aspects of designing and using group support technologies.
+
+IN4MATX 261,The social and economic impacts of computing and information technologies on groups, organizations, and society. Topics include computerization and changes in the character of work, social control and privacy, electronic communities, and risks of safety-critical systems to people.
+
+IN4MATX 263,Selected topics in the influence of computerization and information systems in transforming work and organizations. Theories of organization and organizational change. Processes by which diverse information technologies influence changes in work and organizations over short and long time periods.
+
+IN4MATX 265,Social and economic conceptions of information technology. Macrosocial and economic conditions that foster changes in information technologies. Social construction of information and computer technology in professional worlds. Theories of information technology and large-scale social change.
+
+IN4MATX 267,Selected topics in the technological and social aspects of online interactions, and policy including online games, social media, electronic activism, e-commerce, and digital libraries. Media-theoretic approaches to digital technology. Architectures, infrastructure considerations, and their consequences.
+
+IN4MATX 269,The American legal system and its provisions affecting computer systems, computer networks, and information processing. Intellectual property, contracts, privacy, liability for malfunction, computer crime, constitutional issues, transborder data flow, computer-based evidence, and litigation.
+
+IN4MATX 273,Explores the relationship between recent developments in information technology and the global transition to sustainability. Topics include the role of IT systems in the provision of human needs and wants (e.g., smart grids, food systems, and other IT-enabled infrastructure).
+
+IN4MATX 280,Introduction to human-computer interaction and user-centered design. The material is focused on laying the groundwork for understanding the history, importance, and methods of human-computer interaction and design.
+
+IN4MATX 281,Understanding the user's context, needs, and preferences. Topics include interviews and observations, modeling the context, flow, culture, space and artifacts involved in an endeavor, ways of aggregating what is found, and presenting these findings to others.
+
+IN4MATX 282,Introduction to user-centered design and prototyping. Focused on practical methods for interaction design. Topics include the nature of design and the challenges to creating and evaluating good designs, as well specific skills for designing interactive systems.
+
+IN4MATX 283,Evaluating prototypes and completed systems. Topics include comparative analysis, laboratory experiments, heuristic evaluation, cognitive walkthroughs, surveys, clickstreams, and help-desk.
+
+IN4MATX 284,Develop and communicate interactive technology design prototypes. Moving concepts from brainstorming and paper prototypes to wireframe and limited functionality mock-ups.
+
+IN4MATX 285,Technologies, languages, and skills required for creating prototypes to communicate interactive technology concepts. Topics include HTTP, CSS, CSS scripting, AJAX, Design Patterns, Javascript, Javascript libraries such as jQuery, SQL, MVC, and cloud architectures.
+
+IN4MATX 286,Recent social and technological developments in human-computer interaction and design. Topics will vary as the field progresses but include novel input techniques, novel platforms, and innovations in theory and methods of design.
+
+IN4MATX 287,Group project that reinforces all concepts learned in this program, including knowing where user experience work is most appropriate and essential, and executing the appropriate steps.
+
+IN4MATX 288,Completion of capstone projects and development of portfolios. Ideation, critique, development, and critique.
+
+IN4MATX 290,Forum for presentation and criticism by students of research work in progress. Presentation of problem areas and related work. Specific goals and progress of research.
+
+IN4MATX 291S,Reading and analysis of relevant literature in Software Engineering under the direction of a faculty member.
+
+IN4MATX 295,Studies in selected areas of informatics. Topics addressed vary each quarter.
+
+IN4MATX 298,Individual research or investigation conducted in preparation for the M.S. thesis option or the dissertation requirements for the Ph.D. program.
+
+IN4MATX 299,Individual research or investigation under the direction of an individual faculty member.
+
+I&C SCI 3,Examines current Internet technologies and social implications at the individual, group, and societal level. Blogs, wikis, sharing of video, photos, and music, e-commerce, social networking, gaming, and virtual environments. Issues include privacy, trust, identity, reputation, governance, copyright, and malicious behavior.
+
+I&C SCI 4,Principles of human-computer interaction in evaluating, designing, and developing information presented on the World Wide Web. User characteristics, usability analysis, navigation and organization. Color, typography, multimedia, information visualization, prototyping, user studies, evaluation strategies. Web accessibility.
+
+I&C SCI 5,Explores how new forms of information technology may support transition to a sustainable civilization. Topics include design and implementation of IT systems, science of global change, online community building, and “green IT”. Activities involve reading, writing, discussion, and final project.
+
+I&C SCI 6B,Relations and their properties; Boolean algebras, formal languages; finite automata.
+
+I&C SCI 6D,Covers essential tools from discrete mathematics used in computer science with an emphasis on the process of abstracting computational problems and analyzing them mathematically. Topics include mathematical induction, combinatorics, and recurrence relations.
+
+I&C SCI 6N,Matrices and linear transformations, systems of linear equations, determinants, linear vector spaces, eigenvalues and eigenvectors, orthogonal matrices, diagonalization, and least squares. Topics will be taught primarily from an algorithmic perspective, including computational solutions, applications, and numerical error analysis.
+
+I&C SCI 7,A unified look at a spectrum of modern tools for building, solving, and analyzing simple computational models (deterministic and random) in diverse subject areas. Tools include those for numeric/symbolic computation, and those for acquiring, organizing, translating, processing, and displaying information.
+
+I&C SCI 10,ntroduction to digital computer and communication systems. Capabilities and limitations of information technology. Representing information in digital form. Overview of computer organization, Internet, operating systems, software. Human-computer interaction and social impact.
+
+I&C SCI 11,How the Internet works. Current public policy issues concerning the Internet. Introductory economics. Communications law. Interactions between information technology, economics, and law. Case studies about Internet and communications policy.
+
+I&C SCI 20,Foundational principles of computer science for students with no computing background that are interested in a related career. Big ideas of computing explored, including programming through use of sequential, conditional, iterative logic. Good computational practices, problem solving, and organization discussed.
+
+I&C SCI 31,Introduction to fundamental concepts and techniques for writing software in a high-level programming language. Covers the syntax and semantics of data types, expressions, exceptions, control structures, input/output, methods, classes, and pragmatics of programming.
+
+I&C SCI 32,Construction of programs for problems and computing environments more varied than in CSE41. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Language features beyond those in CSE41 are introduced as needed.
+
+I&C SCI 32A,Introduces Python syntax and semantics for fundamental programming concepts.  Constructing programs for varied problems and environments. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Accelerated course for students with previous programming background.
+
+I&C SCI 33,Intermediate-level language features and programming concepts for larger, more complex, higher-quality software. Functional programming, name spaces, modules, class protocols, inheritance, iterators, generators, operator overloading, reflection. Analysis of time and space efficiency.
+
+I&C SCI 45C,An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the C/C++ languages for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with manual garbage collection.  Formerly ICS 65.
+
+I&C SCI 45J,An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the Java language for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with automatic garbage collection.
+
+I&C SCI 46,Focuses on implementation and mathematical analysis of fundamental data structures and algorithms. Covers storage allocation and memory management techniques.
+
+I&C SCI 51,Multilevel view of system hardware and software. Operation and interconnection of hardware elements. Instruction sets and addressing modes. Virtual memory and operating systems. Laboratory work using low-level programming languages.
+
+I&C SCI 53,Principles and practice of engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; coordination of parallel activities; security and encryption; and performance optimizations.
+
+I&C SCI 53L,Required laboratory section and co-requisite for I&C SCI 53.
+
+I&C SCI 60,The study and critical analysis of computer games as art objects, cultural artifacts, gateways to virtual worlds, educational aids, and tools for persuasion and social change. Emphasis on understanding games in their historical and cultural context.
+
+I&C SCI 61,Principles and usage of game design elements. Introduction to technologies that support modern computer games. Students design, implement, and critique several small games.
+
+I&C SCI 62,Technologies for interactive media and game design. Web-based software systems, virtual world platforms, and game engines. Emphasis on conceptual and architectural aspects of these technologies.
+
+I&C SCI 80,Studies in selected areas of information and computer sciences. Topics addressed vary each quarter.
+
+I&C SCI 90,Introduces students to the Donald Bren School of Information and Computer Sciences. Focuses on advising students making the transition to UCI, community building, and mostly surveying the technical areas within departments in ICS, via talks by faculty on their research.
+
+I&C SCI 105,Design and analysis of digital information systems. Covers underlying database and network technology, and software engineering principles used to build these systems. Evaluating digital information systems, and recognizing common flaws and vulnerabilities.
+
+I&C SCI 139W,Study and practice of critical writing and oral communication as it applies to information technology. Each student writes assignments of varying lengths, totaling at least 4,000 words.
+
+I&C SCI 160,Principles of computer architecture emphasizing hardware used with general purpose processor to support high-performance computer games and graphics engines.
+
+I&C SCI 161,The use of an open source game or graphics engine in the design and implementation of a computer game. Principles of game engine design. Students work on teams to design, implement, and evaluate new computer games based on an engine.
+
+I&C SCI 162,Use of 3D modeling software and related tools to design and create animated, textured models and expansive virtual worlds incorporating objects, scenes, and venues for activity within game worlds and online environments.
+
+I&C SCI 163,Design and technology of mobile games, including mixed reality gaming, urban games, and locative media. Case studies of significant systems. Uses and limitations of location-based technologies. Infrastructures and their relationships to gameplay and design.
+
+I&C SCI 166,Game design takes into consideration psychology, narrative, platform features and limitations, marketing, computer science capabilities, human-computer interface principles, industry trends, aesthetic judgment, and other factors. Students focus on video game design through lectures, readings, presentations, implementation, and play testing.
+
+I&C SCI 167,Foundations and technologies that enable multiuser, networked, and persistent virtual environments. Emphasis on database design and management, network protocols, and concurrency control to accommodate large numbers of simultaneous users.
+
+I&C SCI 168,Designing and implementing a multiuser, networked, and persistent virtual environment or game. Emphasis on cultural aspects, community building, user interface issues and design, security, privacy, and economics.
+
+I&C SCI 169A,Students work in teams to design and implement a new computer game or virtual world. Emphasis on sound, art, and level design, building a community, cut scenes, production values, full utilization of hardware and software platform, and current industry trends.
+
+I&C SCI 169B,Students work in teams to design and implement a new computer game or virtual world. Emphasis on sound, art, and level design, building a community, cut scenes, production values, full utilization of hardware and software platform, and current industry trends.
+
+I&C SCI 192,Students participate in an off-campus, supervised internship for a minimum of 60 hours. Students apply classroom knowledge through internship projects in the private sector or nonprofit agencies.
+
+I&C SCI 193,Principles and practice of providing technical assistance to novice learners in information and computer sciences.
+
+I&C SCI H197,An overview of computer science and selected recent trends in research. Students attend talks on current faculty research, with opportunities for discussion.
+
+I&C SCI 398A,Theories, methods, and resources for teaching computer science at the university level, particularly by teaching assistants. Classroom presentations, working with individuals, grading, motivating students. Participants will give and critique presentations and may be videotaped while teaching.
+
+I&C SCI 398B,Teaching computer science at the university level, emphasizing issues in teaching an entire course. Course organization, designing examinations and projects, grading, motivating students. Participants will begin to assemble teaching portfolios.
+
+I&C SCI 399,Involves on-the-job experience for Teaching Assistants.
+
+STATS 5,An introduction to the field of Data Science; intended for entering freshman and transfers.
+
+STATS 7,Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.
+
+STATS 8,Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance.
+
+STATS 67,Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
+
+STATS 68,Introduces key concepts in statistical computing. Techniques such as exploratory data analysis, data visualization, simulation, and optimization methods, will be presented in the context of data analysis within a statistical computing environment.
+
+STATS 110,Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.
+
+STATS 111,Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.
+
+STATS 112,Introduction to statistical methods for analyzing longitudinal data from experiments and cohort studies. Topics covered include survival methods for censored time-to-event data, linear mixed models, non-linear mixed effects models, and generalized estimating equations.
+
+STATS 115,Basic Bayesian concepts and methods with emphasis on data analysis. Special emphasis on specification of prior distributions. Development for one-two samples and on to binary, Poisson, and linear regression. Analyses performed using free OpenBugs software.
+
+STATS 120A,Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.
+
+STATS 120B,Introduction to basic principles of probability and statistical inference. Point estimation, interval estimating, and testing hypotheses, Bayesian approaches to inference.
+
+STATS 120C,Introduction to basic principles of probability and statistical inference. Linear regression, analysis or variance, model checking.
+
+STATS 140,Theory and application of multivariate statistical methods. Topics include statistical inference for the multivariate normal model and its extensions to multiple samples and regression, use of statistical packages for data visualization and reduction, discriminant analysis, cluster analysis, and factor analysis.
+
+STATS 170A,Problem definition and analysis, data representation, algorithm selection, solution validation, and results presentation. Students do team projects and lectures cover analysis alternatives, project planning, and data analysis issues. First quarter emphasizes approach selection, project planning, and experimental design.
+
+STATS 170B,Problem definition and analysis, data representation, algorithm selection, solution validation, and results presentation. Students do team projects and lectures cover analysis alternatives, project planning, and data analysis issues. Second quarter emphasizes project execution and analysis, and presentation of results.
+
+STATS 199,Individual research or investigations under the direction of an individual faculty member.
+
+STATS 200A,Basics of probability theory, random variables and basic transformations, univariate distributions—discrete and continuous, multivariate distributions.
+
+STATS 200B,Random samples, transformations, limit laws, normal distribution theory, introduction to stochastic processes, data reduction, point estimation (maximum likelihood).
+
+STATS 200C,Interval estimation, hypothesis testing, decision theory and Bayesian inference, basic linear model theory.
+
+STATS 201,Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.
+
+STATS 202,Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.
+
+STATS 203,Introduction to statistical methods for analyzing longitudinal data from experiments and cohort studies. Topics covered include survival methods for censored time-to-event data, linear mixed models, non-linear mixed effects models, and generalized estimating equations.
+
+STATS 205,Basic Bayesian concepts and methods with emphasis on data analysis.  Special emphasis on specification of prior distributions.  Development for one-two samples and on to binary, Poisson and linear regression.  Analyses performed using free OpenBugs software.
+
+STATS 210,Statistical methods for analyzing data from surveys and experiments. Topics include randomization and model-based inference, two-sample methods, analysis of variance, linear regression and model diagnostics.
+
+STATS 210A,Statistical methods for analyzing data from surveys and experiments. Topics include randomization and model-based inference, two-sample methods, analysis of variance, linear regression, and model diagnostics.
+
+STATS 210B,Introduction to statistical methods for analyzing discrete and non-normal outcomes. Emphasizes the development and application of methods for categorical data, including contingency tables, logistic and Poisson regression, loglinear models.
+
+STATS 210C,Introduction to statistical methods for analyzing longitudinal outcomes. Emphasizes the development and application of regression methods for correlated and censored outcomes. Methods for continuous and discrete correlated outcomes, as well as censored outcomes, are covered.
+
+STATS 211,Development of the theory and application of generalized linear models. Topics include likelihood estimation and asymptotic distributional theory for exponential families, quasi-likelihood and mixed model development. Emphasizes methodological development and application to real scientific problems.
+
+STATS 212,Development and application of statistical methods for analyzing corrected data. Topics covered include repeated measures ANOVA, linear mixed models, non-linear mixed effects models, and generalized estimating equations.  Emphasizes both theoretical development and application of the presented methodology.
+
+STATS 220A,Advanced topics in probability and statistical inference including measure theoretic probability, large sample theory, decision theory, resampling and Monte Carlo methods, nonparametric methods.
+
+STATS 220B,Advanced topics in probability and statistical inference, including measure theoretic probability, large sample theory, decision theory, resampling and Monte Carlo methods, nonparametric methods.
+
+STATS 225,Introduction to the Bayesian approach to statistical inference. Topics include univariate and multivariate models, choice of prior distributions, hierarchical models, computation including Markov chain Monte Carlo, model checking, and model selection.
+
+STATS 226,Modern Bayesian Statistics: selected topics from theory of Markov chains, application of theory to modern methods of Markov chain Monte Carlo sampling; Bayesian non-parametric and semiparametric modeling, including Dirichlet Process Mixtures; Mixtures of Polya Trees.
+
+STATS 230,Numerical computations and algorithms with applications in statistics. Topics include optimization methods including the EM algorithm, random number generation and simulation, Markov chain simulation tools, and numerical integration.
+
+STATS 235,Introduces selected modern tools for data analysis. Emphasizes use of computational and resampling techniques for data analyses when the data do not conform to standard toolbox of regression models and/or complexity of modeling problem threatens validity of standard methods.
+
+STATS 240,Theory and application of multivariate statistical methods. Topics include statistical inference for the multivariate normal model and its extensions to multiple samples and regression, use of statistical packages for data visualization and reduction, discriminant analysis, cluster analysis, and factor analysis.
+
+STATS 245,Statistical models for analysis of time series from time and frequency domain perspectives. Emphasizes theory and application of time series data analysis methods. Topics include ARMA/ARIMA models, model identification/estimation, linear operators, Fourier analysis, spectral estimation, state space models, Kalman filter.
+
+STATS 246,Spectral methods that are most commonly utilized for analyzing univariate and multivariate time series and signals. These methods include spectral and coherence estimation, transfer function modeling, classification and discrimination of time series, non-stationary time series, time-frequency analysis, and wavelets analysis.
+
+STATS 250,Statistical methods commonly used to analyze data arising from clinical studies. Topics include analysis of observational studies and randomized clinical trials, techniques in the analysis of survival and longitudinal data, approaches to handling missing data, meta-analysis, nonparametric methods.
+
+STATS 255,Statistical methods for analyzing survival data from cohort studies. Topics include parametric and nonparametric methods, the Kaplan-Meier estimator, log-rank tests, regression models, the Cox proportional hazards model and accelerated failure time models, efficient sampling designs, discrete survival models.
+
+STATS 257,Provides students with knowledge of the basic principles, concepts, and methods used in statistical genetic research. Topics include principles of population genetics, and statistical methods for family- and population-based studies.
+
+STATS 260,Statistical methods and theory useful for analysis of multivariate data with partially observed variables. Bayesian and likelihood-based methods developed. Topics include EM-type algorithms, MCMC samplers, multiple imputation, and general location model. Applications from economics, education, and medicine are discussed.
+
+STATS 262,Basic techniques and statistical methods used in designing surveys and analyzing collected survey data. Topics include simple random sampling, ratio and regression estimates, stratified sampling, cluster sampling, sampling with unequal probabilities, multistage sampling, and methods to handle nonresponse.
+
+STATS 265,Various approaches to causal inference focusing on the Rubin causal model and propensity-score methods. Topics include randomized experiments, observational studies, non-compliance, ignorable and non-ignorable treatment assignment, instrumental variables, and sensitivity analysis. Applications from economics, politics, education, and medicine.
+
+STATS 270,Introduction to the theory and application of stochastic processes. Topics include Markov chains, continuous-time Markov processes, Poisson processes, and Brownian motion. Applications include Markov chain Monte Carlo methods and financial modeling (for example, option pricing).
+
+STATS 275,Training in collaborative research and practical application of statistics. Emphasis on effective communication as it relates to identifying scientific objectives, formulating a statistical analysis plan, choice of statistical methods, and interpretation of results and their limitations to non-statisticians.
+
+STATS 280,Periodic seminar series covering topics of current research in statistics and its application.
+
+STATS 281A,Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.
+
+STATS 281B,Introduction to basic principles of probability and statistical inference. Point estimation, interval estimating, and testing hypotheses, Bayesian approaches to inference.
+
+STATS 281C,Introduction to basic principles of probability and statistical inference. Contingency table analysis, linear regression, analysis of variance, model checking.
+
+STATS 295,Studies in selected areas of statistics. Topics addressed vary each quarter.
+
+STATS 298,Individual research or investigation conducted in preparation for the M.S. thesis option or the dissertation requirements for the Ph.D. program.
+
+STATS 299,Individual research or investigation under the direction of an individual faculty member.
+
