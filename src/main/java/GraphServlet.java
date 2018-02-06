@@ -15,7 +15,7 @@ public class GraphServlet extends HttpServlet {
 
     public GraphServlet() {
         graph = new Graph();
-        String path = "/home/hummuswins/apache2/course.csv";
+        String path = "/home/hummuswins/apache-tomcat-8.5.24/scraper/courses.csv";
         graph.readCSV(path);
     }
 
