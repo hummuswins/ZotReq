@@ -1,3 +1,4 @@
+#ZotReqs
 <h3>INSPIRATION</h3>
 <p>
 As a team of mostly transfer students, the hardest part of adjusting to UC Irvine proved to be the question: What classes can we take? Our counselors provided us with a long list of available classes, but as for specializations and course descriptions, we were absolutely lost.
